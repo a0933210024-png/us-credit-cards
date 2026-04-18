@@ -1,0 +1,662 @@
+[
+  {
+    "slug": "bilt-blue",
+    "issuer": "Bilt",
+    "card_name": "Bilt Blue Card",
+    "card_network": "Mastercard",
+    "annual_fee": 0,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "核卡後獲得 $100 Bilt Cash（免消費門檻）",
+    "signup_bonus_value_estimate": 100,
+    "signup_bonus_spend_requirement": 0,
+    "signup_bonus_time_limit_months": 0,
+    "earning_rates": {
+      "general": "1x Bilt Points（或選擇 4% Bilt Cash）",
+      "rent": "最高 1.25x（依每月非房租消費金額分級：>=100% 房租=1.25x, >=75%=1x, >=50%=0.75x, >=25%=0.5x）",
+      "mortgage": "同 rent 規則，透過 Bilt 付款無手續費"
+    },
+    "key_benefits": [
+      "無年費即可用信用卡付房租和房貸賺點數，無手續費",
+      "Bilt Points 可 1:1 轉到 23 個航空/飯店夥伴",
+      "入門級 Bilt 卡，適合只想賺房租點數的人",
+      "核卡即送 $100 Bilt Cash（Bilt 2.0 方案）",
+      "10% 開卡首年新購買優惠 APR"
+    ],
+    "application_rules": {
+      "rule_name": "Bilt 規則",
+      "description": "三張 Bilt 卡的開卡禮為 lifetime 限制，只能拿一次",
+      "housing_earning": "房租/房貸點數依每月非房租消費比例分級，消費越多賺越多"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Good (670+)",
+    "is_active": true,
+    "status": "active",
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://www.biltrewards.com/",
+    "benefits": []
+  },
+  {
+    "slug": "bilt-obsidian",
+    "issuer": "Bilt",
+    "card_name": "Bilt Obsidian Card",
+    "card_network": "Mastercard",
+    "annual_fee": 95,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "核卡後獲得 $200 Bilt Cash（免消費門檻）",
+    "signup_bonus_value_estimate": 200,
+    "signup_bonus_spend_requirement": 0,
+    "signup_bonus_time_limit_months": 0,
+    "earning_rates": {
+      "dining_or_groceries": "3x Bilt Points（擇一，每年上限 $25,000）",
+      "travel": "2x Bilt Points",
+      "general": "1x Bilt Points（或 4% Bilt Cash）",
+      "rent": "最高 1x（依消費分級，或用 Bilt Cash 兌換）",
+      "mortgage": "同 rent 規則"
+    },
+    "key_benefits": [
+      "3x 餐廳或超市（擇一）",
+      "2x 旅行",
+      "年度 Bilt Travel 飯店 credit（半年分配，金額待確認）",
+      "23 個轉點夥伴 1:1",
+      "World Elite Mastercard 保障",
+      "核卡即送 $200 Bilt Cash（Bilt 2.0 方案）"
+    ],
+    "application_rules": {
+      "rule_name": "Bilt 規則",
+      "description": "三張 Bilt 卡的開卡禮為 lifetime 限制",
+      "category_choice": "開卡預設 3x 為餐廳，30 天內可改為超市，之後每年可更換一次"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Good to Excellent (670+)",
+    "is_active": true,
+    "status": "active",
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://www.biltrewards.com/",
+    "benefits": [
+      {
+        "benefit_category": "hotel_credit",
+        "benefit_name": "年度 Bilt Travel 飯店 Credit",
+        "benefit_description": "年度 Bilt Travel 飯店 credit，半年分配（Jan-Jun / Jul-Dec），確切金額待確認",
+        "benefit_value": 100,
+        "benefit_type": "credit",
+        "reset_date_type": "semi_annual",
+        "recommended_usage": "搭配 Bilt Travel 訂飯店，可部分抵銷年費"
+      }
+    ]
+  },
+  {
+    "slug": "bilt-palladium",
+    "issuer": "Bilt",
+    "card_name": "Bilt Palladium Card",
+    "card_network": "Mastercard",
+    "annual_fee": 495,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡 3 個月內非房租消費滿 $4,000 可獲得 50,000 Bilt Points + 核卡送 $300 Bilt Cash + Bilt Gold 身分",
+    "signup_bonus_value_estimate": 1600,
+    "signup_bonus_spend_requirement": 4000,
+    "signup_bonus_time_limit_months": 3,
+    "earning_rates": {
+      "general": "2x Bilt Points（或 4% Bilt Cash）",
+      "rent": "最高 1.25x（依消費分級）",
+      "mortgage": "同 rent 規則"
+    },
+    "key_benefits": [
+      "所有消費 2x Bilt Points",
+      "$400 年度 Bilt Travel 飯店 credit（Jan-Jun $200 + Jul-Dec $200）",
+      "$200 年度 Bilt Cash credit",
+      "Priority Pass 會員 + 可帶 2 位來賓",
+      "23 個轉點夥伴 1:1",
+      "World Legend Mastercard 保障（含手機保險）",
+      "核卡送 $300 Bilt Cash + Bilt Gold 身分"
+    ],
+    "application_rules": {
+      "rule_name": "Bilt 規則",
+      "description": "三張 Bilt 卡的開卡禮為 lifetime 限制"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Excellent (720+)",
+    "is_active": true,
+    "status": "active",
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://www.biltrewards.com/",
+    "benefits": [
+      {
+        "benefit_category": "hotel_credit",
+        "benefit_name": "$400 Bilt Travel 飯店 Credit",
+        "benefit_description": "每年 $400（Jan-Jun $200 + Jul-Dec $200）在 Bilt Travel 預訂飯店的 statement credit",
+        "benefit_value": 400,
+        "benefit_type": "credit",
+        "reset_date_type": "semi_annual"
+      },
+      {
+        "benefit_category": "other",
+        "benefit_name": "$200 Bilt Cash Credit",
+        "benefit_description": "每年 $200 Bilt Cash",
+        "benefit_value": 200,
+        "benefit_type": "credit",
+        "reset_date_type": "cardmember_year"
+      },
+      {
+        "benefit_category": "lounge",
+        "benefit_name": "Priority Pass 機場貴賓室",
+        "benefit_description": "Priority Pass 會員資格，可帶 2 位來賓免費進入",
+        "benefit_value": 429,
+        "benefit_type": "access",
+        "reset_date_type": "ongoing"
+      }
+    ]
+  },
+  {
+    "slug": "us-bank-altitude-reserve",
+    "issuer": "US Bank",
+    "card_name": "US Bank Altitude Reserve Visa Infinite Card",
+    "card_network": "Visa",
+    "annual_fee": 400,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "目前不接受新申請（2024-11-11 起停止）",
+    "signup_bonus_value_estimate": 0,
+    "signup_bonus_spend_requirement": 0,
+    "signup_bonus_time_limit_months": 0,
+    "earning_rates": {
+      "travel_portal_hotels_cars": "10x points（US Bank Travel Center）",
+      "travel_portal_flights": "5x points（US Bank Travel Center）",
+      "mobile_wallet": "3x points（每月帳單週期前 $5,000，之後 1x）",
+      "travel_direct": "3x points",
+      "dining": "3x points",
+      "general": "1x points"
+    },
+    "key_benefits": [
+      "**已停止接受新申請（2024-11-11 起）**",
+      "$325 旅行 credit（僅限 US Bank Travel Center）",
+      "Priority Pass Select 貴賓室",
+      "Global Entry / TSA PreCheck 報銷",
+      "點數轉換航空/飯店夥伴（2025-12 新增）",
+      "點數兌換旅行降至 1 cpp（2025-12 起，不再有 1.5x Real-Time Mobile Rewards）"
+    ],
+    "application_rules": {
+      "rule_name": "US Bank 新客戶限制",
+      "description": "建議先有 US Bank 支票或儲蓄帳戶再申請，否則核卡機率較低"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Excellent (720+)",
+    "is_active": false,
+    "status": "closed_to_new",
+    "status_note": "2024-11-11 起不接受新申請；2025-12 點數價值從 1.5cpp 降至 1cpp，$325 credit 改限 US Bank Travel Center",
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://www.usbank.com/credit-cards/altitude-reserve-visa-infinite-credit-card.html",
+    "benefits": [
+      {
+        "benefit_category": "travel_credit",
+        "benefit_name": "$325 Travel Credit",
+        "benefit_description": "每年 $325 旅行 credit，2025-12 起僅限 US Bank Travel Center 消費",
+        "benefit_value": 325,
+        "benefit_type": "credit",
+        "reset_date_type": "cardmember_year"
+      }
+    ]
+  },
+  {
+    "slug": "us-bank-altitude-connect",
+    "issuer": "US Bank",
+    "card_name": "US Bank Altitude Connect Visa Signature Card",
+    "card_network": "Visa",
+    "annual_fee": 0,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡 90 天內消費滿 $1,000 可獲得 20,000 點數",
+    "signup_bonus_value_estimate": 200,
+    "signup_bonus_spend_requirement": 1000,
+    "signup_bonus_time_limit_months": 3,
+    "earning_rates": {
+      "travel_portal_prepaid": "5x points（US Bank Travel Center 預付飯店/租車）",
+      "travel": "4x points",
+      "gas_ev_charging": "4x points（每季 $1,000 上限）",
+      "dining": "2x points",
+      "streaming": "2x points",
+      "groceries": "2x points",
+      "general": "1x points"
+    },
+    "key_benefits": [
+      "無年費",
+      "旅行 4x、加油/EV 4x（季度上限）",
+      "每年 4 次 Priority Pass 貴賓室造訪",
+      "TSA PreCheck / Global Entry 報銷（4 年一次）",
+      "0% APR 前 15 個月",
+      "無外幣交易手續費"
+    ],
+    "application_rules": {
+      "rule_name": "US Bank 新客戶限制",
+      "description": "建議先有 US Bank 帳戶再申請"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Good to Excellent (670+)",
+    "is_active": true,
+    "status": "active",
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://www.usbank.com/credit-cards/altitude-connect-visa-signature-credit-card.html",
+    "benefits": []
+  },
+  {
+    "slug": "wells-fargo-autograph",
+    "issuer": "Wells Fargo",
+    "card_name": "Wells Fargo Autograph Card",
+    "card_network": "Visa",
+    "annual_fee": 0,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡 3 個月內消費滿 $1,000 可獲得 20,000 Rewards 點數",
+    "signup_bonus_value_estimate": 200,
+    "signup_bonus_spend_requirement": 1000,
+    "signup_bonus_time_limit_months": 3,
+    "earning_rates": {
+      "dining": "3x points",
+      "travel": "3x points",
+      "gas": "3x points",
+      "transit": "3x points",
+      "streaming": "3x points",
+      "phone_plans": "3x points",
+      "general": "1x points"
+    },
+    "key_benefits": [
+      "無年費",
+      "6 大類別 3x 回饋（餐廳、旅行、加油/EV、大眾運輸、串流、電信）",
+      "手機保護計劃",
+      "0% APR 前 12 個月",
+      "搭配 Autograph Journey 可轉點到航空夥伴",
+      "2026 TPG Awards 無年費卡年度卡"
+    ],
+    "application_rules": {
+      "rule_name": "Wells Fargo 限制",
+      "description": "無特殊限制規則，但 Wells Fargo 對新客戶審核較嚴"
+    },
+    "foreign_transaction_fee": 3,
+    "credit_score_recommended": "Good (670+)",
+    "is_active": true,
+    "status": "active",
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://www.wellsfargo.com/credit-cards/autograph/",
+    "benefits": []
+  },
+  {
+    "slug": "wells-fargo-autograph-journey",
+    "issuer": "Wells Fargo",
+    "card_name": "Wells Fargo Autograph Journey Card",
+    "card_network": "Visa",
+    "annual_fee": 95,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 3 個月內消費滿 $4,000 可獲得 60,000 Rewards 點數",
+    "signup_bonus_value_estimate": 600,
+    "signup_bonus_spend_requirement": 4000,
+    "signup_bonus_time_limit_months": 3,
+    "earning_rates": {
+      "flights": "5x points",
+      "hotels": "4x points",
+      "dining": "3x points",
+      "other_travel": "3x points",
+      "general": "1x points"
+    },
+    "key_benefits": [
+      "飯店 5x、航班 4x、其他旅行 & 餐廳 3x 回饋",
+      "可轉點到航空夥伴（Air France/British Airways 等）",
+      "每年 $50 flight credit",
+      "無外幣交易手續費",
+      "旅行延誤保險"
+    ],
+    "application_rules": {
+      "rule_name": "Wells Fargo 限制",
+      "description": "無特殊限制規則"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Good to Excellent (670+)",
+    "is_active": true,
+    "status": "active",
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://www.wellsfargo.com/credit-cards/autograph-journey/",
+    "benefits": [
+      {
+        "benefit_category": "travel_credit",
+        "benefit_name": "$50 Flight Credit",
+        "benefit_description": "每年 $50 航空消費 credit",
+        "benefit_value": 50,
+        "benefit_type": "credit",
+        "reset_date_type": "cardmember_year"
+      }
+    ]
+  },
+  {
+    "slug": "wells-fargo-active-cash",
+    "issuer": "Wells Fargo",
+    "card_name": "Wells Fargo Active Cash Card",
+    "card_network": "Visa",
+    "annual_fee": 0,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 3 個月內消費滿 $500 可獲得 $200 現金回饋",
+    "signup_bonus_value_estimate": 200,
+    "signup_bonus_spend_requirement": 500,
+    "signup_bonus_time_limit_months": 3,
+    "earning_rates": {
+      "general": "2% cash back"
+    },
+    "key_benefits": [
+      "無年費，所有消費 2% 回饋",
+      "0% APR 前 12 個月",
+      "手機保護計劃",
+      "與 Citi Double Cash 並列最佳無年費 2% 現金回饋卡"
+    ],
+    "application_rules": {
+      "rule_name": "Wells Fargo 限制",
+      "description": "無特殊限制規則"
+    },
+    "foreign_transaction_fee": 3,
+    "credit_score_recommended": "Good (670+)",
+    "is_active": true,
+    "status": "active",
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://www.wellsfargo.com/credit-cards/active-cash/",
+    "benefits": []
+  },
+  {
+    "slug": "bofa-premium-rewards",
+    "issuer": "Bank of America",
+    "card_name": "Bank of America Premium Rewards Card",
+    "card_network": "Visa",
+    "annual_fee": 95,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡 90 天內消費滿 $4,000 可獲得 60,000 點數",
+    "signup_bonus_value_estimate": 600,
+    "signup_bonus_spend_requirement": 4000,
+    "signup_bonus_time_limit_months": 3,
+    "earning_rates": {
+      "travel": "2x points（Platinum Honors 加成後最高 3.5x）",
+      "dining": "2x points（Platinum Honors 加成後最高 3.5x）",
+      "general": "1.5x points（Platinum Honors 加成後最高 2.625x）"
+    },
+    "key_benefits": [
+      "餐廳、旅行 2x 基礎回饋",
+      "其他消費 1.5x 基礎回饋",
+      "Preferred Rewards 會員可加成最高 75%（Platinum Honors）",
+      "每年 $100 航空或 TSA PreCheck credit",
+      "無外幣交易手續費",
+      "旅行延誤保險"
+    ],
+    "application_rules": {
+      "rule_name": "BofA 2/3/4 Rule",
+      "description": "2 個月內最多 1 張 BofA 卡，3 個月內最多 2 張，12 個月內最多 3-4 張"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Good to Excellent (670+)",
+    "is_active": true,
+    "status": "active",
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://www.bankofamerica.com/credit-cards/products/premium-rewards-credit-card/",
+    "benefits": [
+      {
+        "benefit_category": "travel_credit",
+        "benefit_name": "$100 Airline/TSA Credit",
+        "benefit_description": "每年 $100 可用於航空附加費或 TSA PreCheck/Global Entry 報銷",
+        "benefit_value": 100,
+        "benefit_type": "credit",
+        "reset_date_type": "cardmember_year"
+      }
+    ]
+  },
+  {
+    "slug": "bofa-customized-cash-rewards",
+    "issuer": "Bank of America",
+    "card_name": "Bank of America Customized Cash Rewards Credit Card",
+    "card_network": "Visa",
+    "annual_fee": 0,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 3 個月內消費滿 $1,000 可獲得 $200 現金回饋",
+    "signup_bonus_value_estimate": 200,
+    "signup_bonus_spend_requirement": 1000,
+    "signup_bonus_time_limit_months": 3,
+    "earning_rates": {
+      "choice_category": "3% cash back（自選 1 個類別：加油&EV/網購&訂閱/餐廳/旅行/藥局/居家裝修）",
+      "groceries_wholesale": "2% cash back",
+      "general": "1% cash back",
+      "quarterly_cap_note": "3% 與 2% 合併每季 $2,500 上限，超過降為 1%"
+    },
+    "key_benefits": [
+      "無年費",
+      "自選類別 3% 回饋",
+      "超市/量販 2% 回饋",
+      "3% 與 2% 類別合併每季 $2,500 上限",
+      "Preferred Rewards 會員可加成回饋最高 75%（最高達 5.25%）",
+      "0% APR 前 15 個月"
+    ],
+    "application_rules": {
+      "rule_name": "BofA 2/3/4 Rule",
+      "description": "2 個月內最多 1 張 BofA 卡，3 個月內最多 2 張，12 個月內最多 3-4 張"
+    },
+    "foreign_transaction_fee": 3,
+    "credit_score_recommended": "Good (670+)",
+    "is_active": true,
+    "status": "active",
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/",
+    "benefits": []
+  },
+  {
+    "slug": "barclays-aadvantage-aviator-red",
+    "issuer": "Barclays",
+    "card_name": "Barclays AAdvantage Aviator Red World Elite Mastercard",
+    "card_network": "Mastercard",
+    "annual_fee": 99,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "已停售（2025-10）。現有卡將於 2026-04-26 轉換為 Citi AAdvantage 卡",
+    "signup_bonus_value_estimate": 0,
+    "signup_bonus_spend_requirement": 0,
+    "signup_bonus_time_limit_months": 0,
+    "earning_rates": {
+      "american_airlines_purchases": "2x AA miles",
+      "general": "1x AA miles"
+    },
+    "key_benefits": [
+      "**已停售 - Barclays 已退出 AA 合作（2025-10）**",
+      "**現有卡將於 2026-04-26 自動轉換為 Citi 發行的 AA 卡**",
+      "持卡人可保留 AA miles 餘額",
+      "行李免託運、優先登機等福利移交至 Citi"
+    ],
+    "application_rules": {
+      "rule_name": "Barclays 6/24 Rule",
+      "description": "過去 24 個月內新開超過 6 張任何銀行的信用卡，Barclays 可能拒絕申請"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Good to Excellent (670+)",
+    "is_active": false,
+    "status": "discontinued",
+    "status_note": "2025-10 停發新卡；現有卡 2026-04-26 自動轉為 Citi AAdvantage 產品",
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://cards.barclaycardus.com/cards/aadvantage-aviator-red-world-elite-mastercard/",
+    "benefits": [
+      {
+        "benefit_category": "airline",
+        "benefit_name": "免費託運行李",
+        "benefit_description": "持卡人及同一訂位旅伴可免費託運第一件行李",
+        "benefit_value": 70,
+        "benefit_type": "waiver",
+        "reset_date_type": "per_flight"
+      }
+    ]
+  },
+  {
+    "slug": "apple-card",
+    "issuer": "Apple / Goldman Sachs",
+    "card_name": "Apple Card",
+    "card_network": "Mastercard",
+    "annual_fee": 0,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "無固定開卡禮",
+    "signup_bonus_value_estimate": 0,
+    "signup_bonus_spend_requirement": 0,
+    "signup_bonus_time_limit_months": 0,
+    "earning_rates": {
+      "apple_purchases": "3% Daily Cash",
+      "apple_pay": "2% Daily Cash（使用 Apple Pay 付款）",
+      "general": "1% Daily Cash"
+    },
+    "key_benefits": [
+      "無年費",
+      "Apple 購物 3% 回饋",
+      "Apple Pay 付款 2% 回饋",
+      "Daily Cash 每日結算直接入帳",
+      "無手續費、無逾期費、無外幣交易手續費",
+      "iPhone 上精美的消費追蹤和管理介面",
+      "分期購買 Apple 產品 0% 利率",
+      "**2026-01 起 JPMorgan Chase 將接替 Goldman Sachs 發卡（過渡約 24 個月）**",
+      "Mastercard 網路維持不變"
+    ],
+    "application_rules": {
+      "rule_name": "Apple Card 規則",
+      "description": "需有 iPhone 才能申請，透過 Wallet app 申請"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Fair to Good (600+)",
+    "is_active": true,
+    "status": "issuer_transition",
+    "status_note": "2026-01 公告 Apple Card 發卡行將從 Goldman Sachs 轉為 JPMorgan Chase，約 24 個月 rollout；福利短期不變",
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://www.apple.com/apple-card/",
+    "benefits": []
+  },
+  {
+    "slug": "boa-alaska-atmos-ascent",
+    "issuer": "Bank of America",
+    "card_name": "Atmos Rewards Ascent Visa Signature",
+    "card_network": "Visa",
+    "annual_fee": 95,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡 120 天內消費滿 $4,500 可獲得 85,000 Atmos Rewards 點數 + $99 Companion Fare（限時 offer，標準為 80k / $3,000）",
+    "signup_bonus_value_estimate": 1275,
+    "signup_bonus_spend_requirement": 4500,
+    "signup_bonus_time_limit_months": 4,
+    "earning_rates": {
+      "alaska_hawaiian": "3x Atmos Points",
+      "gas_ev_charging": "2x Atmos Points",
+      "streaming_cable": "2x Atmos Points",
+      "transit_rideshare": "2x Atmos Points",
+      "general": "1x Atmos Points"
+    },
+    "key_benefits": [
+      "持卡人及同一訂位最多 6 位同行者免費託運第一件行李",
+      "優先登機",
+      "$100 折扣 Alaska Lounge+ 年費",
+      "$99 Companion Fare（每年續卡後獲得）",
+      "Bank of America 帳戶持有者額外 10% 點數加成",
+      "無海外交易手續費"
+    ],
+    "application_rules": {
+      "rule_name": "Bank of America 規則",
+      "description": "Bank of America 在 2 個月內最多核准 2-3 張信用卡，建議間隔 3-6 個月再申請；曾擁有此卡 24 個月內不可再申請（cooldown）"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Good to Excellent (670+)",
+    "is_active": true,
+    "status": "active",
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://www.bankofamerica.com/credit-cards/products/atmos-rewards-ascent-visa-signature-credit-card/",
+    "benefits": [
+      {
+        "benefit_category": "航空",
+        "benefit_name": "免費託運行李",
+        "benefit_description": "持卡人及同一訂位最多 6 位同行者在 Alaska Airlines 和 Hawaiian Airlines 航班免費託運第一件行李",
+        "benefit_value": 35,
+        "benefit_type": "waiver",
+        "reset_date_type": "per_trip",
+        "recommended_usage": "訂票時確保用此卡付款，同行者需在同一訂位才享有免費行李"
+      },
+      {
+        "benefit_category": "航空",
+        "benefit_name": "$99 Companion Fare",
+        "benefit_description": "每年續卡後獲得 Companion Fare，可用 $99（+稅）購買同行者機票",
+        "benefit_value": 200,
+        "benefit_type": "fare",
+        "reset_date_type": "cardmember_year",
+        "recommended_usage": "搭配長途航線使用價值最高，例如西岸到夏威夷的航線"
+      }
+    ]
+  },
+  {
+    "slug": "boa-alaska-atmos-summit",
+    "issuer": "Bank of America",
+    "card_name": "Atmos Rewards Summit Visa Infinite",
+    "card_network": "Visa",
+    "annual_fee": 395,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡 90 天內消費滿 $4,000 可獲得 80,000 點 + 25,000 點 Global Companion Award（現行有 $6,000 消費換 100k + 50% 折扣碼的 targeted 版本）",
+    "signup_bonus_value_estimate": 1575,
+    "signup_bonus_spend_requirement": 4000,
+    "signup_bonus_time_limit_months": 3,
+    "earning_rates": {
+      "alaska_hawaiian": "3x Atmos Points（Alaska/Hawaiian 直接消費）",
+      "dining": "3x Atmos Points",
+      "foreign_transactions": "3x Atmos Points（所有海外交易）",
+      "general": "1x Atmos Points"
+    },
+    "key_benefits": [
+      "持卡人及最多 6 位同行者免費託運行李 + 優先登機",
+      "每年 25,000 點 Global Companion Award（價值約 $375）",
+      "年消費 $60,000 以上可獲額外 100,000 點 Global Companion Award",
+      "每年 8 張 Alaska Lounge 通行證（每季 2 張）",
+      "每 4 年 $120 Global Entry/TSA PreCheck credit",
+      "航班取消或延誤超過 2 小時可獲 $50 voucher",
+      "消費 $1 賺 1 status point，$20K=Silver，$60K=Gold",
+      "每年續卡送 10,000 status points",
+      "Bank of America 帳戶額外 10% 點數加成",
+      "無海外交易手續費",
+      "Visa Infinite concierge 服務"
+    ],
+    "application_rules": {
+      "rule_name": "Bank of America 規則",
+      "description": "Bank of America 在 2 個月內最多核准 2-3 張信用卡"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Excellent (720+)",
+    "is_active": true,
+    "status": "active",
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://www.bankofamerica.com/credit-cards/products/atmos-rewards-summit-visa-infinite-credit-card/",
+    "benefits": [
+      {
+        "benefit_category": "航空",
+        "benefit_name": "免費託運行李 + 優先登機",
+        "benefit_description": "持卡人及同一訂位最多 6 位同行者免費託運第一件行李，並享有優先登機",
+        "benefit_value": 35,
+        "benefit_type": "waiver",
+        "reset_date_type": "per_trip"
+      },
+      {
+        "benefit_category": "航空",
+        "benefit_name": "25,000 點 Global Companion Award",
+        "benefit_description": "每年續卡後獲得 25,000 點 Global Companion Award，可用於兌換同行者機票",
+        "benefit_value": 375,
+        "benefit_type": "award",
+        "reset_date_type": "cardmember_year",
+        "recommended_usage": "搭配長途國際航線使用價值最高"
+      },
+      {
+        "benefit_category": "貴賓室",
+        "benefit_name": "Alaska Lounge 通行證",
+        "benefit_description": "每年 8 張 Alaska Lounge 通行證，每季發放 2 張，需搭乘當日 Alaska/Hawaiian/Oneworld 或夥伴航空航班",
+        "benefit_value": 400,
+        "benefit_type": "access",
+        "reset_date_type": "quarterly"
+      },
+      {
+        "benefit_category": "旅行",
+        "benefit_name": "Global Entry/TSA PreCheck Credit",
+        "benefit_description": "每 4 年最高 $120 的 Global Entry 或 TSA PreCheck 申請費 credit",
+        "benefit_value": 30,
+        "benefit_type": "credit",
+        "reset_date_type": "every_4_years"
+      },
+      {
+        "benefit_category": "航空",
+        "benefit_name": "航班延誤補償",
+        "benefit_description": "Alaska Airlines 航班取消或延誤超過 2 小時，自動獲得 $50 voucher",
+        "benefit_value": 50,
+        "benefit_type": "voucher",
+        "reset_date_type": "per_incident"
+      }
+    ]
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "category_name": "dining",
+    "category_name_zh": "餐廳",
+    "best_card_slug": "amex-gold",
+    "best_card_name": "American Express Gold Card",
+    "earning_rate": "4x MR",
+    "runner_up_card_slug": "chase-sapphire-reserve",
+    "runner_up_card_name": "Chase Sapphire Reserve",
+    "runner_up_earning_rate": "3x UR",
+    "notes": "Amex Gold 的 4x MR 是餐廳類別最高回饋（年上限 $50,000）。Chase Sapphire Reserve 的 3x UR 搭配 1.5x portal 加值也很強。"
+  },
+  {
+    "category_name": "groceries",
+    "category_name_zh": "超市",
+    "best_card_slug": "amex-blue-cash-preferred",
+    "best_card_name": "Blue Cash Preferred Card from American Express",
+    "earning_rate": "6% cash back（每年首 $6,000）",
+    "runner_up_card_slug": "amex-gold",
+    "runner_up_card_name": "American Express Gold Card",
+    "runner_up_earning_rate": "4x MR（每年首 $25,000）",
+    "notes": "如果超市消費不超過 $6,000/年，Blue Cash Preferred 的 6% 最划算。超過 $6,000 或想要轉點彈性，Amex Gold 的 4x MR 更好。"
+  },
+  {
+    "category_name": "gas",
+    "category_name_zh": "加油",
+    "best_card_slug": "citi-custom-cash",
+    "best_card_name": "Citi Custom Cash Card",
+    "earning_rate": "5% cash back / 5x TYP（每月消費最高類別，每週期 $500 上限）",
+    "runner_up_card_slug": "chase-freedom-flex",
+    "runner_up_card_name": "Chase Freedom Flex",
+    "runner_up_earning_rate": "5x UR（季度輪轉，加油季度時）",
+    "notes": "Citi Custom Cash 只要加油是你每月消費最高類別就自動 5%。Freedom Flex 需等到加油的季度輪轉才有 5x。"
+  },
+  {
+    "category_name": "travel",
+    "category_name_zh": "旅行",
+    "best_card_slug": "chase-sapphire-reserve",
+    "best_card_name": "Chase Sapphire Reserve",
+    "earning_rate": "4x UR（直接向航空公司/飯店）或 8x UR（透過 Chase Travel）+ $300 旅行 credit + 1.5x portal 加值",
+    "runner_up_card_slug": "capital-one-venture-x",
+    "runner_up_card_name": "Capital One Venture X Rewards Credit Card",
+    "runner_up_earning_rate": "2x miles（+ $300 travel credit + 10K anniversary miles）",
+    "notes": "CSR 的 4x UR（直接購票）或 8x UR（透過 Chase Travel）+ 1.5x portal 加值是旅行最強組合。Venture X 的等效年費更低（$395 - $300 credit - $100 anniversary = -$5）。"
+  },
+  {
+    "category_name": "online_shopping",
+    "category_name_zh": "網購",
+    "best_card_slug": "chase-amazon-prime-visa",
+    "best_card_name": "Amazon Prime Visa",
+    "earning_rate": "5% cash back（Amazon + Whole Foods，需 Prime 會員）",
+    "runner_up_card_slug": "chase-freedom-flex",
+    "runner_up_card_name": "Chase Freedom Flex",
+    "runner_up_earning_rate": "5x UR（季度輪轉，網購季度時）",
+    "notes": "Amazon Prime Visa 專攻 Amazon 購物。其他網購平台可等 Freedom Flex 的季度輪轉或用 BofA Customized Cash（自選網購 3%）。"
+  },
+  {
+    "category_name": "streaming",
+    "category_name_zh": "串流訂閱",
+    "best_card_slug": "amex-gold",
+    "best_card_name": "American Express Gold Card",
+    "earning_rate": "4x MR",
+    "runner_up_card_slug": "chase-sapphire-preferred",
+    "runner_up_card_name": "Chase Sapphire Preferred",
+    "runner_up_earning_rate": "3x UR",
+    "notes": "Amex Gold 和 CSP 都將串流服務列為高回饋類別。Amex Platinum 另有 $240 entertainment credit 可直接折抵。"
+  },
+  {
+    "category_name": "drugstores",
+    "category_name_zh": "藥局",
+    "best_card_slug": "chase-freedom-unlimited",
+    "best_card_name": "Chase Freedom Unlimited",
+    "earning_rate": "3x UR",
+    "runner_up_card_slug": "chase-freedom-flex",
+    "runner_up_card_name": "Chase Freedom Flex",
+    "runner_up_earning_rate": "3x UR",
+    "notes": "Chase Freedom 系列都提供藥局 3x UR。搭配 Sapphire 卡可提升 UR 價值到 1.25-1.5 cents/point。"
+  },
+  {
+    "category_name": "rent",
+    "category_name_zh": "房租",
+    "best_card_slug": "bilt-blue",
+    "best_card_name": "Bilt Blue Card",
+    "earning_rate": "最高 1.25x Bilt Points（無手續費，依每月非房租消費分級）",
+    "runner_up_card_slug": "bilt-palladium",
+    "runner_up_card_name": "Bilt Palladium Card",
+    "runner_up_earning_rate": "最高 1.25x Bilt Points + 所有消費 2x",
+    "notes": "Bilt 是唯一可以用信用卡付房租和房貸且不收手續費的卡系列。Bilt Blue 無年費適合入門，Bilt Palladium $495 年費但所有消費 2x 且附帶大量 credit。房租點數依每月非房租消費比例分級。"
+  },
+  {
+    "category_name": "general",
+    "category_name_zh": "一般消費",
+    "best_card_slug": "citi-double-cash",
+    "best_card_name": "Citi Double Cash Card",
+    "earning_rate": "2% cash back / 2x TYP",
+    "runner_up_card_slug": "wells-fargo-active-cash",
+    "runner_up_card_name": "Wells Fargo Active Cash Card",
+    "runner_up_earning_rate": "2% cash back",
+    "notes": "Citi Double Cash 和 Wells Fargo Active Cash 都是 2% 無年費現金回饋卡。Double Cash 可轉為 TYP 搭配 Strata Premier 轉點，價值更高。"
+  }
+]

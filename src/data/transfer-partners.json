@@ -1,0 +1,793 @@
+{
+  "programs": [
+    {
+      "program_name": "Chase Ultimate Rewards",
+      "currency_name": "Ultimate Rewards Points",
+      "base_value_cpp": 1.0,
+      "best_value_cpp": 2.0,
+      "earning_cards": [
+        "chase-sapphire-preferred",
+        "chase-sapphire-reserve",
+        "chase-freedom-unlimited",
+        "chase-freedom-flex",
+        "chase-ink-business-preferred",
+        "chase-ink-business-cash",
+        "chase-ink-business-unlimited"
+      ],
+      "partners": [
+        {
+          "partner_name": "United Airlines",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": [
+            { "route": "美國國內經濟艙", "points": 12500, "value": "$200-400" },
+            { "route": "Excursionist Perk 免費停留", "points": 0, "value": "$200-500" }
+          ]
+        },
+        {
+          "partner_name": "Southwest Airlines",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": [
+            { "route": "Companion Pass 搭配", "points": 0, "value": "同行者免費" }
+          ]
+        },
+        {
+          "partner_name": "JetBlue",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "British Airways (Avios)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": [
+            { "route": "短途 off-peak 經濟", "points": 6000, "value": "$100-200" },
+            { "route": "AA 國內短途兌換", "points": 7500, "value": "$150-300" }
+          ]
+        },
+        {
+          "partner_name": "Air France / KLM (Flying Blue)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": [
+            { "route": "Promo Rewards 折扣兌換", "points": 0, "value": "不定期促銷" }
+          ]
+        },
+        {
+          "partner_name": "Singapore Airlines (KrisFlyer)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": [
+            { "route": "新航商務艙美國到亞洲", "points": 92000, "value": "$5,000+" }
+          ]
+        },
+        {
+          "partner_name": "Virgin Atlantic (Flying Club)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": [
+            { "route": "ANA 商務艙單程美日", "points": 60000, "value": "$3,000-5,000" },
+            { "route": "Delta 國內頭等", "points": 32500, "value": "$500-800" }
+          ]
+        },
+        {
+          "partner_name": "Emirates (Skywards)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Iberia (Avios)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": [
+            { "route": "馬德里到歐洲短途商務", "points": 17000, "value": "$400-800" }
+          ]
+        },
+        {
+          "partner_name": "Aer Lingus (Avios)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": [
+            { "route": "美國東岸到都柏林 off-peak 經濟", "points": 13000, "value": "$300-600" }
+          ]
+        },
+        {
+          "partner_name": "World of Hyatt",
+          "partner_type": "hotel",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": [
+            { "route": "Cat 1 免費住宿", "points": 5000, "value": "$100-200" },
+            { "route": "Cat 1-4 免費住宿", "points": 25000, "value": "$300-500+" },
+            { "route": "All-inclusive resort", "points": 25000, "value": "$500-1,000" }
+          ]
+        },
+        {
+          "partner_name": "Marriott Bonvoy",
+          "partner_type": "hotel",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "1-2 天",
+          "is_instant": false,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "IHG One Rewards",
+          "partner_type": "hotel",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": [
+            { "route": "IHG 4th Night Free 搭配", "points": 0, "value": "第四晚免費" }
+          ]
+        }
+      ]
+    },
+    {
+      "program_name": "Amex Membership Rewards",
+      "currency_name": "Membership Rewards Points",
+      "base_value_cpp": 1.0,
+      "best_value_cpp": 2.0,
+      "earning_cards": [
+        "amex-platinum",
+        "amex-gold",
+        "amex-green",
+        "amex-business-platinum",
+        "amex-business-gold"
+      ],
+      "partners": [
+        {
+          "partner_name": "Delta SkyMiles",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": [
+            { "route": "Delta Flash Sales", "points": 0, "value": "不定期促銷" }
+          ]
+        },
+        {
+          "partner_name": "ANA Mileage Club",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "2-3 天",
+          "is_instant": false,
+          "sweet_spots": [
+            { "route": "商務艙來回日本（淡季）", "points": 75000, "value": "$5,000+" },
+            { "route": "商務艙來回日本（旺季）", "points": 90000, "value": "$5,000+" },
+            { "route": "Round the World Ticket", "points": 145000, "value": "$15,000+" }
+          ]
+        },
+        {
+          "partner_name": "Singapore Airlines (KrisFlyer)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Virgin Atlantic (Flying Club)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": [
+            { "route": "ANA 商務艙單程美日", "points": 60000, "value": "$3,000-5,000" },
+            { "route": "Delta 國內頭等", "points": 32500, "value": "$500-800" }
+          ]
+        },
+        {
+          "partner_name": "British Airways (Avios)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Air France / KLM (Flying Blue)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Emirates (Skywards)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Etihad (Guest)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": [
+            { "route": "ANA 商務艙美日（替代路線）", "points": 88000, "value": "$5,000+" }
+          ]
+        },
+        {
+          "partner_name": "JetBlue",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1000,
+          "transfer_ratio_to": 800,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Cathay Pacific (Asia Miles)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Hilton Honors",
+          "partner_type": "hotel",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 2,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Marriott Bonvoy",
+          "partner_type": "hotel",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "1-2 天",
+          "is_instant": false,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Choice Hotels",
+          "partner_type": "hotel",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        }
+      ]
+    },
+    {
+      "program_name": "Citi ThankYou Points",
+      "currency_name": "ThankYou Points",
+      "base_value_cpp": 1.0,
+      "best_value_cpp": 2.0,
+      "earning_cards": [
+        "citi-strata-premier",
+        "citi-double-cash",
+        "citi-custom-cash"
+      ],
+      "partners": [
+        {
+          "partner_name": "Turkish Airlines (Miles&Smiles)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": [
+            { "route": "美國國內經濟艙（Star Alliance）", "points": 7500, "value": "$150-400" },
+            { "route": "美國到歐洲商務艙", "points": 45000, "value": "$3,000-6,000" }
+          ]
+        },
+        {
+          "partner_name": "Singapore Airlines (KrisFlyer)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "12-24 小時",
+          "is_instant": false,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Virgin Atlantic (Flying Club)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Air France / KLM (Flying Blue)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Qatar Airways (Privilege Club)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": [
+            { "route": "Qsuite 商務艙美國到中東", "points": 70000, "value": "$5,000-8,000" }
+          ]
+        },
+        {
+          "partner_name": "Cathay Pacific (Asia Miles)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "JetBlue",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Etihad (Guest)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Wyndham Rewards",
+          "partner_type": "hotel",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Choice Hotels",
+          "partner_type": "hotel",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Accor Live Limitless",
+          "partner_type": "hotel",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 2,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        }
+      ]
+    },
+    {
+      "program_name": "Capital One Miles",
+      "currency_name": "Capital One Miles",
+      "base_value_cpp": 1.0,
+      "best_value_cpp": 1.8,
+      "earning_cards": [
+        "capital-one-venture-x",
+        "capital-one-venture",
+        "capital-one-ventureone"
+      ],
+      "partners": [
+        {
+          "partner_name": "Turkish Airlines (Miles&Smiles)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": [
+            { "route": "美國國內經濟艙", "points": 7500, "value": "$150-400" }
+          ]
+        },
+        {
+          "partner_name": "Air Canada (Aeroplan)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": [
+            { "route": "北美到歐洲商務", "points": 70000, "value": "$3,000-5,000" },
+            { "route": "北美到亞洲商務", "points": 75000, "value": "$4,000-7,000" }
+          ]
+        },
+        {
+          "partner_name": "Avianca LifeMiles",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": [
+            { "route": "Star Alliance 商務艙兌換", "points": 63000, "value": "$3,000-5,000" }
+          ]
+        },
+        {
+          "partner_name": "British Airways (Avios)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Singapore Airlines (KrisFlyer)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Cathay Pacific (Asia Miles)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Finnair (Avios)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Air France / KLM (Flying Blue)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "TAP Air Portugal",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Emirates (Skywards)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Etihad (Guest)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Qantas (Frequent Flyer)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Wyndham Rewards",
+          "partner_type": "hotel",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Accor Live Limitless",
+          "partner_type": "hotel",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Choice Hotels",
+          "partner_type": "hotel",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        }
+      ]
+    },
+    {
+      "program_name": "Bilt Points",
+      "currency_name": "Bilt Points",
+      "base_value_cpp": 1.0,
+      "best_value_cpp": 2.0,
+      "earning_cards": [
+        "bilt-blue",
+        "bilt-obsidian",
+        "bilt-palladium"
+      ],
+      "partners": [
+        {
+          "partner_name": "Air Canada (Aeroplan)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Air France / KLM (Flying Blue)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Alaska Airlines (Atmos Rewards)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Avianca LifeMiles",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "British Airways (Avios)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Cathay Pacific (Asia Miles)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Emirates (Skywards)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Etihad (Guest)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Iberia (Avios)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "JAL Mileage Bank",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Qatar Airways (Avios)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Southwest Rapid Rewards",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Spirit Free Spirit",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "TAP Air Portugal",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Turkish Airlines (Miles&Smiles)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": [
+            { "route": "美國國內經濟艙", "points": 7500, "value": "$150-400" }
+          ]
+        },
+        {
+          "partner_name": "United Airlines (MileagePlus)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Virgin Atlantic (Flying Club)",
+          "partner_type": "airline",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Accor Live Limitless",
+          "partner_type": "hotel",
+          "transfer_ratio_from": 3,
+          "transfer_ratio_to": 2,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Hilton Honors",
+          "partner_type": "hotel",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 2,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "IHG One Rewards",
+          "partner_type": "hotel",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "Marriott Bonvoy",
+          "partner_type": "hotel",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "1-2 天",
+          "is_instant": false,
+          "sweet_spots": []
+        },
+        {
+          "partner_name": "World of Hyatt",
+          "partner_type": "hotel",
+          "transfer_ratio_from": 1,
+          "transfer_ratio_to": 1,
+          "transfer_time_estimate": "即時",
+          "is_instant": true,
+          "sweet_spots": [
+            { "route": "Cat 1-4 免費住宿", "points": 25000, "value": "$300-500+" }
+          ]
+        }
+      ]
+    }
+  ]
+}

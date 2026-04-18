@@ -1,36 +1,83 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# US Card Guide - 美國信用卡資訊網站
+
+面向在美華人的信用卡資訊平台，繁體中文介面，涵蓋信用卡比較、點數攻略、福利提醒等功能。
+
+## Tech Stack
+
+- **Framework:** Next.js 16 (App Router) + TypeScript
+- **Styling:** Tailwind CSS v4 + shadcn/ui
+- **Database:** Supabase (PostgreSQL) — 可用本地 JSON fallback 開發
+- **State:** Zustand
+- **Deployment:** Vercel
 
 ## Getting Started
 
-First, run the development server:
-
 ```bash
+# Install dependencies
+npm install
+
+# Run development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+No Supabase setup needed for development — the app automatically falls back to local JSON data in `src/data/`.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Setting Up Supabase (Optional)
 
-## Learn More
+1. Create a Supabase project
+2. Copy `.env.example` to `.env.local` and fill in your credentials
+3. Run the migration:
+   ```sql
+   -- Copy contents of supabase/migrations/001_initial_schema.sql
+   -- into the Supabase SQL Editor and execute
+   ```
+4. Seed the database:
+   ```bash
+   SUPABASE_URL=... SUPABASE_SERVICE_ROLE_KEY=... npx tsx src/scripts/seed.ts
+   ```
 
-To learn more about Next.js, take a look at the following resources:
+## Pages
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+| Route | Description |
+|-------|-------------|
+| `/` | Home — featured cards, quick links, news |
+| `/cards` | Credit card database with filtering & comparison |
+| `/cards/[slug]` | Individual card detail |
+| `/best-cards` | Best card by spending category + rewards calculator |
+| `/benefits` | Card benefits reminder by issuer/category |
+| `/points` | Points transfer guide, sweet spots, calculator |
+| `/signup-bonus` | Sign-up bonus ranking + Chase 5/24 checker |
+| `/news` | Credit card news & updates |
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Data
 
-## Deploy on Vercel
+All credit card data lives in `src/data/` as JSON files:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **52 credit cards** across Chase, Amex, Citi, Capital One, and others
+- **61 transfer partners** across 5 points programs
+- **15 sweet spot redemption routes**
+- **9 spending categories** with best card recommendations
+- **6 card combo recommendations**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Scripts
+
+```bash
+npm run build    # Production build
+npm run dev      # Development server
+npm run lint     # ESLint
+npx tsc --noEmit # Type checking
+```
+
+## Deploy to Vercel
+
+```bash
+npx vercel
+```
+
+No environment variables needed for basic deployment (uses JSON fallback).
+
+## License
+
+MIT

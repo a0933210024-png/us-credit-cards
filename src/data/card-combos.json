@@ -1,0 +1,136 @@
+[
+  {
+    "combo_name": "Chase Trifecta（旗艦版）",
+    "description": "Chase Sapphire Reserve + Freedom Unlimited + Freedom Flex 的經典三卡組合。CSR 提供 3x 旅行餐廳和 1.5x portal 加值，CFU 負責一般消費 1.5x，CFF 負責季度輪轉 5x。所有 UR 點數集中到 CSR 後轉點或加值。",
+    "card_slugs": ["chase-sapphire-reserve", "chase-freedom-unlimited", "chase-freedom-flex"],
+    "card_names": ["Chase Sapphire Reserve", "Chase Freedom Unlimited", "Chase Freedom Flex"],
+    "total_annual_fee": 795,
+    "estimated_annual_value": 1500,
+    "target_audience": "中高消費旅行者，年消費 $30,000+ 且經常旅行",
+    "pros": [
+      "所有消費都有高回饋覆蓋",
+      "UR 點數可轉到 Hyatt/United 等夥伴，價值 1.5-2 cpp",
+      "$300 旅行 credit 降低實際年費",
+      "Priority Pass 貴賓室",
+      "旅行保險完善（延誤 2 小時即觸發）",
+      "CFU 和 CFF 無年費，只有 CSR 有年費"
+    ],
+    "cons": [
+      "CSR 年費 $795 較高",
+      "需要有 Chase 銀行關係或較高收入",
+      "受 Chase 5/24 限制"
+    ]
+  },
+  {
+    "combo_name": "Chase Trifecta（小資版）",
+    "description": "Chase Sapphire Preferred + Freedom Unlimited + Freedom Flex。和旗艦版相同邏輯，但用 CSP 取代 CSR 大幅降低年費。CSP 提供 1.25x portal 加值和轉點能力。",
+    "card_slugs": ["chase-sapphire-preferred", "chase-freedom-unlimited", "chase-freedom-flex"],
+    "card_names": ["Chase Sapphire Preferred", "Chase Freedom Unlimited", "Chase Freedom Flex"],
+    "total_annual_fee": 95,
+    "estimated_annual_value": 1000,
+    "target_audience": "中等消費者，想要點數彈性但不想付高年費",
+    "pros": [
+      "年費只有 $95，入門門檻低",
+      "依然享有 UR 轉點能力",
+      "CSP 開卡禮 60K UR 價值 $750+",
+      "餐廳/超市 3x、季度輪轉 5x",
+      "適合初入點數世界的新手"
+    ],
+    "cons": [
+      "CSP 的 portal 加值只有 1.25x（CSR 是 1.5x）",
+      "沒有貴賓室、旅行 credit",
+      "旅行延誤保險門檻是 6 小時（CSR 是 2 小時）"
+    ]
+  },
+  {
+    "combo_name": "Amex 雙持（Platinum + Gold）",
+    "description": "Amex Platinum 負責航班 5x 和各種 credit 回收，Amex Gold 負責餐廳超市 4x。兩張 Charge Card 不受 5 credit card limit 限制。搭配轉點到 ANA/Virgin Atlantic 等夥伴。",
+    "card_slugs": ["amex-platinum", "amex-gold"],
+    "card_names": ["The Platinum Card from American Express", "American Express Gold Card"],
+    "total_annual_fee": 1220,
+    "estimated_annual_value": 2500,
+    "target_audience": "高消費旅行者，年消費 $50,000+，善用 credit 回收",
+    "pros": [
+      "餐廳超市 4x MR 是市場最高",
+      "航班 5x MR",
+      "Platinum 大量 credit 回收：$600 hotel + $200 airline + $200 Uber + $300 entertainment + $209 CLEAR+ + $400 Resy + $300 lululemon",
+      "Gold 的 $120 dining + $120 Uber + $84 Dunkin' + $100 Resy credit",
+      "Centurion Lounge + Priority Pass",
+      "MR 轉 ANA 可兌換超值商務艙機票"
+    ],
+    "cons": [
+      "年費合計 $1,220 很高",
+      "需要認真使用所有 credit 才能回本",
+      "Amex 在部分商店不被接受",
+      "Pop-up 風險可能拿不到開卡禮"
+    ]
+  },
+  {
+    "combo_name": "旅行極大化組合",
+    "description": "Chase Sapphire Reserve + Amex Gold + Capital One Venture X 三大體系全覆蓋。CSR 負責旅行和 UR 轉點，Amex Gold 負責餐廳超市和 MR 轉點，Venture X 提供 2x 一般消費和 Capital One 轉點。三套點數體系覆蓋所有夥伴。",
+    "card_slugs": ["chase-sapphire-reserve", "amex-gold", "capital-one-venture-x"],
+    "card_names": ["Chase Sapphire Reserve", "American Express Gold Card", "Capital One Venture X Rewards Credit Card"],
+    "total_annual_fee": 1515,
+    "estimated_annual_value": 3000,
+    "target_audience": "點數玩家、頻繁旅行者，年消費 $60,000+",
+    "pros": [
+      "三大點數體系完整覆蓋：UR + MR + Capital One Miles",
+      "幾乎所有航空和飯店夥伴都能轉到",
+      "每個消費類別都有最佳回饋卡",
+      "三個貴賓室體系：Priority Pass + Centurion + Capital One Lounge",
+      "Venture X 等效年費接近 $0"
+    ],
+    "cons": [
+      "名目年費合計 $1,515",
+      "需要管理三個點數帳戶",
+      "需要很高的消費量才能回本",
+      "同時管理多張卡較複雜"
+    ]
+  },
+  {
+    "combo_name": "無年費超值組合",
+    "description": "Chase Freedom Unlimited + Chase Freedom Flex + Citi Double Cash + Bilt Blue Card。完全無年費，覆蓋所有主要消費類別。CFU 一般消費 1.5%，CFF 季度輪轉 5x，Double Cash 備用 2%，Bilt Blue 付房租。",
+    "card_slugs": ["chase-freedom-unlimited", "chase-freedom-flex", "citi-double-cash", "bilt-blue"],
+    "card_names": ["Chase Freedom Unlimited", "Chase Freedom Flex", "Citi Double Cash Card", "Bilt Blue Card"],
+    "total_annual_fee": 0,
+    "estimated_annual_value": 600,
+    "target_audience": "不想付年費的實用主義者、學生或新手",
+    "pros": [
+      "完全無年費",
+      "季度輪轉 5x + 餐廳藥局 3x + 一般 1.5-2%",
+      "Bilt 付房租賺點數",
+      "日後升級 Sapphire 卡即可解鎖 UR 轉點",
+      "Citi Double Cash 可搭配 Strata Premier 轉 TYP",
+      "適合建立信用歷史"
+    ],
+    "cons": [
+      "沒有轉點能力（除非加辦 Sapphire 或 Strata Premier）",
+      "沒有旅行保險和貴賓室",
+      "CFU/CFF 有 3% 外幣交易手續費",
+      "回饋以現金為主，較難獲得超高價值兌換"
+    ]
+  },
+  {
+    "combo_name": "飯店控終極組合",
+    "description": "World of Hyatt + Hilton Aspire + Marriott Bonvoy Brilliant 三大飯店體系全覆蓋。每張卡都有年度 Free Night，加上頂級會員身份。適合每年住飯店 30+ 晚的旅客。",
+    "card_slugs": ["chase-world-of-hyatt", "amex-hilton-aspire", "amex-marriott-bonvoy-brilliant"],
+    "card_names": ["World of Hyatt Credit Card", "Hilton Honors American Express Aspire Card", "Marriott Bonvoy Brilliant American Express Card"],
+    "total_annual_fee": 1295,
+    "estimated_annual_value": 3000,
+    "target_audience": "飯店愛好者、經常出差住飯店、追求升等和頂級體驗",
+    "pros": [
+      "三大飯店體系頂級會員：Hyatt Discoverist + Hilton Diamond + Marriott Platinum Elite",
+      "每年至少 3 晚 Free Night（Hyatt Cat 1-4 + Hilton 無限制 + Marriott 85K）",
+      "Hilton Diamond 和 Marriott Platinum 享免費早餐和房型升等",
+      "Hilton Aspire $250 resort credit + $250 airline credit",
+      "Marriott Brilliant $300 Marriott credit",
+      "飯店消費超高回饋：Hyatt 4x、Hilton 14x、Marriott 6x"
+    ],
+    "cons": [
+      "年費合計 $1,295 非常高",
+      "兩張 Amex 卡佔用 5 card limit 中的 2 個名額",
+      "需要大量飯店消費才能回本",
+      "如果不常住飯店，Free Night 可能用不完"
+    ]
+  }
+]

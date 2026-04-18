@@ -1,0 +1,214 @@
+[
+  {
+    "slug": "citi-double-cash",
+    "issuer": "Citi",
+    "card_name": "Citi Double Cash Card",
+    "card_network": "Mastercard",
+    "annual_fee": 0,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 6 個月內消費滿 $1,500 可獲得 $200 現金回饋",
+    "signup_bonus_value_estimate": 200,
+    "signup_bonus_spend_requirement": 1500,
+    "signup_bonus_time_limit_months": 6,
+    "earning_rates": {
+      "citi_travel_hotels_cars_attractions": "5% total (2% base + 3% bonus) / 5x TYP",
+      "general": "2% cash back（1% 消費時 + 1% 繳帳單時）/ 2x ThankYou Points"
+    },
+    "key_benefits": [
+      "所有消費無上限 2% 回饋",
+      "Citi Travel 訂飯店/租車/景點門票享 5% 總回饋（2% 基礎 + 3% bonus）",
+      "無年費",
+      "可轉為 ThankYou Points 搭配 Strata Premier 轉點",
+      "0% APR 前 18 個月（Balance Transfer）",
+      "Citi Entertainment 購票優先"
+    ],
+    "application_rules": {
+      "rule_name": "Citi 8/65 & 1/8 Rule",
+      "description": "8 天內最多申請 1 張 Citi 卡，65 天內最多申請 2 張"
+    },
+    "foreign_transaction_fee": 3,
+    "credit_score_recommended": "Good to Excellent (670+)",
+    "is_active": true,
+    "status": "active",
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://www.citi.com/credit-cards/citi-double-cash-credit-card",
+    "benefits": []
+  },
+  {
+    "slug": "citi-custom-cash",
+    "issuer": "Citi",
+    "card_name": "Citi Custom Cash Card",
+    "card_network": "Mastercard",
+    "annual_fee": 0,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 6 個月內消費滿 $1,500 可獲得 $200 現金回饋",
+    "signup_bonus_value_estimate": 200,
+    "signup_bonus_spend_requirement": 1500,
+    "signup_bonus_time_limit_months": 6,
+    "earning_rates": {
+      "top_eligible_category": "5% cash back / 5x TYP（每月消費最高的類別，每計費週期首 $500）",
+      "categories_include": "餐廳、加油站、超市、藥局、旅行、交通、串流、健身房",
+      "general": "1% cash back / 1x TYP"
+    },
+    "key_benefits": [
+      "每月自動偵測消費最高的類別享 5% 回饋",
+      "限時至 2026/6/30：Citi Travel 訂飯店/租車/景點門票享額外 4% 回饋",
+      "無年費",
+      "可轉為 ThankYou Points 搭配 Strata Premier 轉點",
+      "適合單一類別消費集中的使用者",
+      "0% APR 前 15 個月"
+    ],
+    "application_rules": {
+      "rule_name": "Citi 8/65 & 1/8 Rule",
+      "description": "8 天內最多申請 1 張 Citi 卡，65 天內最多申請 2 張"
+    },
+    "foreign_transaction_fee": 3,
+    "credit_score_recommended": "Good to Excellent (670+)",
+    "is_active": true,
+    "status": "active",
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://www.citi.com/credit-cards/citi-custom-cash-credit-card",
+    "offer_expires_at": "2026-06-30",
+    "benefits": []
+  },
+  {
+    "slug": "citi-strata-premier",
+    "issuer": "Citi",
+    "card_name": "Citi Strata Premier Card",
+    "card_network": "Mastercard",
+    "annual_fee": 95,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 3 個月內消費滿 $4,000 可獲得 60,000 ThankYou Points",
+    "signup_bonus_value_estimate": 600,
+    "signup_bonus_spend_requirement": 4000,
+    "signup_bonus_time_limit_months": 3,
+    "earning_rates": {
+      "citi_travel_hotels_cars_attractions": "10x TYP",
+      "air_travel_and_other_hotels": "3x TYP",
+      "dining": "3x TYP",
+      "groceries": "3x TYP",
+      "gas_and_ev_charging": "3x TYP",
+      "general": "1x TYP"
+    },
+    "key_benefits": [
+      "Citi Travel 訂飯店/租車/景點門票 10x TYP",
+      "機票與其他飯店 3x TYP，餐廳/超市/加油與 EV 充電 3x TYP",
+      "轉點到 Turkish Airlines/Singapore Airlines 等航空夥伴",
+      "每年一次，在 cititravel.com 訂 $500+ 住宿折 $100 off",
+      "旅行延誤保險",
+      "無外幣交易手續費",
+      "無 Authorized User 費用",
+      "TYP 可合併 Double Cash 和 Custom Cash 的點數一起轉"
+    ],
+    "application_rules": {
+      "rule_name": "Citi 8/65 & 1/8 Rule + 24 Month Rule",
+      "description": "8 天內最多申請 1 張 Citi 卡，65 天內最多申請 2 張。過去 24 個月內拿過同一張卡的開卡禮則不能再拿"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Good to Excellent (670+)",
+    "is_active": true,
+    "status": "active",
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://www.citi.com/credit-cards/citi-strata-premier-credit-card",
+    "benefits": [
+      {
+        "benefit_category": "hotel_credit",
+        "benefit_name": "$100 Hotel Credit",
+        "benefit_description": "每日曆年 1 次，透過 cititravel.com 訂購 $500+（不含稅費）的單次飯店住宿，訂購當下自動折抵 $100",
+        "benefit_value": 100,
+        "benefit_type": "credit",
+        "reset_date_type": "calendar_year"
+      }
+    ]
+  },
+  {
+    "slug": "citi-aadvantage-platinum-select",
+    "issuer": "Citi",
+    "card_name": "Citi / AAdvantage Platinum Select World Elite Mastercard",
+    "card_network": "Mastercard",
+    "annual_fee": 99,
+    "annual_fee_waived_first_year": true,
+    "signup_bonus_description": "開卡後 3 個月內消費滿 $2,500 可獲得 50,000 AAdvantage miles（限時 80k/$3,500/4mo 供應中，待確認期限）",
+    "signup_bonus_value_estimate": 625,
+    "signup_bonus_spend_requirement": 2500,
+    "signup_bonus_time_limit_months": 3,
+    "earning_rates": {
+      "american_airlines_purchases": "2x AA miles",
+      "dining": "2x AA miles",
+      "gas": "2x AA miles",
+      "general": "1x AA miles"
+    },
+    "key_benefits": [
+      "首年免年費",
+      "免費託運第一件行李（持卡人 + 同訂位最多 4 名旅伴）",
+      "優先登機",
+      "25% 機上消費折扣",
+      "每年消費滿 $20,000 獲得 $125 AA 機票折扣（待確認 vs Companion Certificate）"
+    ],
+    "application_rules": {
+      "rule_name": "Citi 8/65 & 1/8 Rule + 24 Month Rule",
+      "description": "8 天內最多申請 1 張 Citi 卡，65 天內最多申請 2 張。48 個月內拿過同一張 AA 卡的開卡禮則不能再拿"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Good to Excellent (670+)",
+    "is_active": true,
+    "status": "active",
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://thepointsguy.com/credit-cards/reviews/aadvantage-platinum-select-world-elite-mastercard-review/",
+    "benefits": [
+      {
+        "benefit_category": "airline",
+        "benefit_name": "免費託運行李",
+        "benefit_description": "持卡人及同一訂位最多 4 名旅伴可免費託運第一件行李",
+        "benefit_value": 70,
+        "benefit_type": "waiver",
+        "reset_date_type": "per_flight"
+      }
+    ]
+  },
+  {
+    "slug": "citi-aadvantage-executive",
+    "issuer": "Citi",
+    "card_name": "Citi / AAdvantage Executive World Elite Mastercard",
+    "card_network": "Mastercard",
+    "annual_fee": 595,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 3 個月內消費滿 $7,000 可獲得 70,000 AAdvantage miles",
+    "signup_bonus_value_estimate": 875,
+    "signup_bonus_spend_requirement": 7000,
+    "signup_bonus_time_limit_months": 3,
+    "earning_rates": {
+      "american_airlines_purchases": "4x AA miles",
+      "dining": "2x AA miles",
+      "general": "1x AA miles"
+    },
+    "key_benefits": [
+      "Admirals Club 貴賓室免費使用（可帶 2 位同行旅客）",
+      "免費託運前三件行李",
+      "優先登機和安檢",
+      "Global Entry / TSA PreCheck 報銷",
+      "每年消費滿 $40,000 贈送 10,000 EQMs",
+      "Authorized User：3 位合計 $175/年，額外每位 $175"
+    ],
+    "application_rules": {
+      "rule_name": "Citi 8/65 & 1/8 Rule + 48 Month Rule",
+      "description": "8 天內最多申請 1 張 Citi 卡，65 天內最多申請 2 張。48 個月內拿過同一張 AA 卡的開卡禮則不能再拿"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Excellent (720+)",
+    "is_active": true,
+    "status": "active",
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://thepointsguy.com/credit-cards/reviews/citi-aadvantage-executive-world-elite-mastercard-review/",
+    "benefits": [
+      {
+        "benefit_category": "lounge",
+        "benefit_name": "Admirals Club",
+        "benefit_description": "持卡人可免費使用全球 Admirals Club 貴賓室，可帶 2 位同行旅客或直系親屬",
+        "benefit_value": 650,
+        "benefit_type": "membership",
+        "reset_date_type": "annual"
+      }
+    ]
+  }
+]

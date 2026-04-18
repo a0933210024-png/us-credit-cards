@@ -1,0 +1,250 @@
+[
+  {
+    "slug": "capital-one-venture-x",
+    "issuer": "Capital One",
+    "card_name": "Capital One Venture X Rewards Credit Card",
+    "card_network": "Visa",
+    "annual_fee": 395,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 3 個月內消費滿 $4,000 可獲得 75,000 Capital One miles（限時 100k/$10,000/6mo 活動供應中，待確認結束日）",
+    "signup_bonus_value_estimate": 750,
+    "signup_bonus_spend_requirement": 4000,
+    "signup_bonus_time_limit_months": 3,
+    "earning_rates": {
+      "hotels_rental_cars_via_capital_one_travel": "10x miles",
+      "flights_vacation_rentals_via_capital_one_travel": "5x miles",
+      "general": "2x miles"
+    },
+    "key_benefits": [
+      "$300 旅行 credit（透過 Capital One Travel 訂購，每年自動折抵）",
+      "每年 10,000 Anniversary miles（價值 $100+）",
+      "Capital One Lounge 和 Plaza Premium Lounge（2026/2/1 起，來賓需付 $45/人進入 Capital One Lounge，授權使用者需付 $125/年才有貴賓室權限）",
+      "Priority Pass Select 貴賓室",
+      "轉點到 Turkish Airlines/Air Canada 等 15+ 航空夥伴",
+      "所有消費 2x miles 是高年費卡中最高一般消費回饋",
+      "Global Entry / TSA PreCheck 報銷",
+      "Hertz President's Circle 租車會員"
+    ],
+    "application_rules": {
+      "rule_name": "Capital One 限制",
+      "description": "Capital One 通常限制同時持有 2 張 Capital One credit card。部分人可持有更多，取決於個人情況"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Excellent (720+)",
+    "is_active": true,
+    "status": "active",
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://www.capitalone.com/credit-cards/venture-x/",
+    "benefits": [
+      {
+        "benefit_category": "travel_credit",
+        "benefit_name": "$300 Travel Credit",
+        "benefit_description": "每年透過 Capital One Travel 預訂旅行可獲得 $300 credit",
+        "benefit_value": 300,
+        "benefit_type": "credit",
+        "reset_date_type": "cardmember_year",
+        "recommended_usage": "用 Capital One Travel 訂機票或飯店即可自動折抵"
+      },
+      {
+        "benefit_category": "miles",
+        "benefit_name": "10,000 Anniversary Miles",
+        "benefit_description": "每年持卡週年自動獲得 10,000 Capital One miles",
+        "benefit_value": 100,
+        "benefit_type": "bonus_miles",
+        "reset_date_type": "cardmember_year"
+      },
+      {
+        "benefit_category": "lounge",
+        "benefit_name": "Capital One Lounge",
+        "benefit_description": "免費使用 Capital One Lounge（達拉斯 DFW、華盛頓 DCA、丹佛 DEN）和 Plaza Premium Lounge。2026/2/1 起來賓需付 $45/人，授權使用者需付 $125/年才有貴賓室權限",
+        "benefit_value": 500,
+        "benefit_type": "membership",
+        "reset_date_type": "annual"
+      }
+    ]
+  },
+  {
+    "slug": "capital-one-venture",
+    "issuer": "Capital One",
+    "card_name": "Capital One Venture Rewards Credit Card",
+    "card_network": "Visa",
+    "annual_fee": 95,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 3 個月內消費滿 $4,000 可獲得 75,000 Capital One miles",
+    "signup_bonus_value_estimate": 750,
+    "signup_bonus_spend_requirement": 4000,
+    "signup_bonus_time_limit_months": 3,
+    "earning_rates": {
+      "hotels_rental_cars_via_capital_one_travel": "5x miles",
+      "general": "2x miles"
+    },
+    "key_benefits": [
+      "所有消費 2x miles",
+      "可轉點到 15+ 航空夥伴",
+      "Miles 可直接折抵旅行消費",
+      "Global Entry / TSA PreCheck 報銷（up to $120）",
+      "無外幣交易手續費",
+      "Hertz Five Star 租車會員",
+      "Lifestyle Collection 飯店/度假村 $50 experience credit"
+    ],
+    "application_rules": {
+      "rule_name": "Capital One 限制",
+      "description": "Capital One 通常限制同時持有 2 張 Capital One credit card"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Good to Excellent (670+)",
+    "is_active": true,
+    "status": "active",
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://www.capitalone.com/credit-cards/venture/",
+    "benefits": []
+  },
+  {
+    "slug": "capital-one-ventureone",
+    "issuer": "Capital One",
+    "card_name": "Capital One VentureOne Rewards Credit Card",
+    "card_network": "Visa",
+    "annual_fee": 0,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 3 個月內消費滿 $500 可獲得 20,000 Capital One miles",
+    "signup_bonus_value_estimate": 200,
+    "signup_bonus_spend_requirement": 500,
+    "signup_bonus_time_limit_months": 3,
+    "earning_rates": {
+      "hotels_rental_cars_via_capital_one_travel": "5x miles",
+      "general": "1.25x miles"
+    },
+    "key_benefits": [
+      "無年費旅行卡",
+      "一般消費 1.25x miles",
+      "Capital One Travel 訂飯店/租車 5x miles",
+      "可轉點到航空夥伴",
+      "無外幣交易手續費",
+      "0% APR 前 15 個月"
+    ],
+    "application_rules": {
+      "rule_name": "Capital One 限制",
+      "description": "Capital One 通常限制同時持有 2 張 Capital One credit card"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Good (670+)",
+    "is_active": true,
+    "status": "active",
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://www.capitalone.com/credit-cards/ventureone/",
+    "benefits": []
+  },
+  {
+    "slug": "capital-one-savor",
+    "issuer": "Capital One",
+    "card_name": "Capital One Savor Cash Rewards Credit Card (舊版)",
+    "card_network": "Mastercard",
+    "annual_fee": 95,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 3 個月內消費滿 $3,000 可獲得 $300 現金回饋",
+    "signup_bonus_value_estimate": 300,
+    "signup_bonus_spend_requirement": 3000,
+    "signup_bonus_time_limit_months": 3,
+    "earning_rates": {
+      "dining": "4% cash back",
+      "entertainment": "4% cash back",
+      "streaming": "4% cash back",
+      "groceries": "3% cash back",
+      "general": "1% cash back"
+    },
+    "key_benefits": [
+      "餐廳/娛樂/串流 4% 回饋",
+      "超市 3% 回饋",
+      "Capital One Entertainment 購票優先",
+      "無外幣交易手續費"
+    ],
+    "application_rules": {
+      "rule_name": "Capital One 限制",
+      "description": "Capital One 通常限制同時持有 2 張 Capital One credit card"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Good to Excellent (670+)",
+    "is_active": false,
+    "status": "discontinued",
+    "status_note": "2024-07 起不再接受新申請，已被現行 Savor ($0 AF) 取代",
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://www.capitalone.com/credit-cards/savor/",
+    "benefits": []
+  },
+  {
+    "slug": "capital-one-savorone",
+    "issuer": "Capital One",
+    "card_name": "Capital One Savor Cash Rewards Credit Card",
+    "card_network": "Mastercard",
+    "annual_fee": 0,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 3 個月內消費滿 $500 可獲得 $200 現金回饋",
+    "signup_bonus_value_estimate": 200,
+    "signup_bonus_spend_requirement": 500,
+    "signup_bonus_time_limit_months": 3,
+    "earning_rates": {
+      "capital_one_travel_hotels_vacation_rentals_rental_cars": "5% cash back",
+      "dining": "3% cash back",
+      "entertainment": "3% cash back",
+      "streaming": "3% cash back",
+      "groceries": "3% cash back（Walmart/Target 除外）",
+      "general": "1% cash back"
+    },
+    "key_benefits": [
+      "餐廳/娛樂/串流/超市 3% 回饋",
+      "Capital One Travel 5% 回饋",
+      "Capital One Entertainment 購票優先",
+      "無外幣交易手續費",
+      "無年費"
+    ],
+    "application_rules": {
+      "rule_name": "Capital One 限制",
+      "description": "Capital One 通常限制同時持有 2 張 Capital One credit card"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Good (670+)",
+    "is_active": true,
+    "status": "active",
+    "status_note": "原 SavorOne 於 2024-07 更名為 Savor（$0 AF），本卡即為現行 Savor",
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://www.capitalone.com/credit-cards/savor/",
+    "benefits": []
+  },
+  {
+    "slug": "capital-one-quicksilver",
+    "issuer": "Capital One",
+    "card_name": "Capital One Quicksilver Cash Rewards Credit Card",
+    "card_network": "Visa",
+    "annual_fee": 0,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 3 個月內消費滿 $500 獲得 $200 現金回饋 + 首年 $100 Capital One Travel credit",
+    "signup_bonus_value_estimate": 300,
+    "signup_bonus_spend_requirement": 500,
+    "signup_bonus_time_limit_months": 3,
+    "earning_rates": {
+      "capital_one_travel_hotels_rental_cars": "5% cash back",
+      "capital_one_entertainment": "5% cash back",
+      "general": "1.5% cash back"
+    },
+    "key_benefits": [
+      "無年費",
+      "所有消費 1.5% 無上限回饋",
+      "Capital One Travel 5% 回饋（hotels/rental cars）",
+      "Capital One Entertainment 5% 回饋",
+      "首年 $100 Capital One Travel credit",
+      "無外幣交易手續費",
+      "0% APR 前 15 個月"
+    ],
+    "application_rules": {
+      "rule_name": "Capital One 限制",
+      "description": "Capital One 通常限制同時持有 2 張 Capital One credit card"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Good (670+)",
+    "is_active": true,
+    "status": "active",
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://www.capitalone.com/credit-cards/quicksilver/",
+    "benefits": []
+  }
+]

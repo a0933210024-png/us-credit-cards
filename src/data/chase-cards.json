@@ -1,0 +1,888 @@
+[
+  {
+    "slug": "chase-sapphire-preferred",
+    "issuer": "Chase",
+    "card_name": "Chase Sapphire Preferred",
+    "card_network": "Visa",
+    "annual_fee": 95,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 3 個月內消費滿 $5,000 可獲得 75,000 Ultimate Rewards 點數",
+    "signup_bonus_value_estimate": 937,
+    "signup_bonus_spend_requirement": 5000,
+    "signup_bonus_time_limit_months": 3,
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://creditcards.chase.com/rewards-credit-cards/sapphire/preferred",
+    "status": "active",
+    "earning_rates": {
+      "chase_travel": "5x UR（透過 Chase Travel）",
+      "dining": "3x UR",
+      "online_groceries": "3x UR",
+      "streaming": "3x UR",
+      "travel": "2x UR",
+      "general": "1x UR"
+    },
+    "key_benefits": [
+      "UR 點數透過 portal 訂旅行價值提升 25%",
+      "轉點到 Hyatt/United/Southwest 等夥伴",
+      "旅行延誤保險",
+      "主卡持有人可將點數轉給 Freedom 系列加值",
+      "DoorDash DashPass 會員資格",
+      "行李延誤保險最高 $3,000",
+      "每年底以前年度消費總額 10% 的 bonus 點數"
+    ],
+    "application_rules": {
+      "rule_name": "Chase 5/24",
+      "description": "過去 24 個月內新開超過 5 張任何銀行的信用卡（含副卡），Chase 會自動拒絕申請",
+      "one_sapphire_rule": "不能同時持有 Sapphire Preferred 和 Sapphire Reserve，且 48 個月內不能拿過 Sapphire 系列開卡禮"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Good to Excellent (670+)",
+    "is_active": true,
+    "benefits": [
+      {
+        "benefit_category": "travel",
+        "benefit_name": "UR Portal 加值",
+        "benefit_description": "透過 Chase Travel Portal 訂旅行，UR 點數價值提升 25%（1 UR = 1.25 cents）",
+        "benefit_value": 0,
+        "benefit_type": "multiplier",
+        "usage_reminder": "訂機票和飯店記得用 Chase Travel Portal",
+        "reset_date_type": "none",
+        "recommended_usage": "所有旅行預訂都透過 portal 以獲得最大價值"
+      },
+      {
+        "benefit_category": "travel",
+        "benefit_name": "旅行延誤保險",
+        "benefit_description": "航班延誤超過 6 小時或需要過夜，可報銷最高 $500 的住宿和餐飲費用",
+        "benefit_value": 500,
+        "benefit_type": "insurance",
+        "reset_date_type": "per_occurrence"
+      },
+      {
+        "benefit_category": "dining",
+        "benefit_name": "DoorDash DashPass",
+        "benefit_description": "免費 DoorDash DashPass 會員，享有免運費和折扣優惠",
+        "benefit_value": 96,
+        "benefit_type": "membership",
+        "reset_date_type": "annual"
+      },
+      {
+        "benefit_category": "hotel_credit",
+        "benefit_name": "$50 Chase Travel Hotel Credit",
+        "benefit_description": "每年 $50 Chase Travel 飯店預訂 credit",
+        "benefit_value": 50,
+        "benefit_type": "credit",
+        "reset_date_type": "cardmember_year"
+      },
+      {
+        "benefit_category": "rideshare",
+        "benefit_name": "5x Lyft",
+        "benefit_description": "使用 CSP 搭 Lyft 可獲得 5x UR 點數",
+        "benefit_value": 0,
+        "benefit_type": "multiplier",
+        "reset_date_type": "ongoing"
+      },
+      {
+        "benefit_category": "other",
+        "benefit_name": "5x Peloton",
+        "benefit_description": "Peloton 消費可獲得 5x UR 點數",
+        "benefit_value": 0,
+        "benefit_type": "multiplier",
+        "reset_date_type": "ongoing"
+      }
+    ]
+  },
+  {
+    "slug": "chase-sapphire-reserve",
+    "issuer": "Chase",
+    "card_name": "Chase Sapphire Reserve",
+    "card_network": "Visa",
+    "annual_fee": 795,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 3 個月內消費滿 $6,000 可獲得 125,000 Ultimate Rewards 點數",
+    "signup_bonus_value_estimate": 2500,
+    "signup_bonus_spend_requirement": 6000,
+    "signup_bonus_time_limit_months": 3,
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://creditcards.chase.com/rewards-credit-cards/sapphire/reserve",
+    "status": "active",
+    "earning_rates": {
+      "chase_travel": "8x UR（透過 Chase Travel 預訂）",
+      "flights": "4x UR（直接向航空公司購票）",
+      "hotels": "4x UR（直接向飯店預訂）",
+      "dining": "3x UR",
+      "general": "1x UR"
+    },
+    "key_benefits": [
+      "$300 年度旅行 credit",
+      "$500 The Edit 飯店 credit（每次預訂最高 $250）",
+      "$250 Chase Travel 飯店 credit（指定連鎖，至 12/31/26）",
+      "$300 餐飲 credit（Sapphire Exclusive Tables，每半年 $150）",
+      "$288 Apple TV + Music",
+      "$120 DashPass + 每月 promo",
+      "$300 StubHub credit（每半年 $150）",
+      "$120 Lyft credit + 5x",
+      "$120 Peloton credit + 10x",
+      "Chase Sapphire Lounge + Priority Pass 1,300+ 貴賓室",
+      "Global Entry/TSA PreCheck credit（每 4 年 $120）",
+      "IHG Platinum Elite Status",
+      "UR 點數透過 portal 訂旅行價值提升 50%",
+      "轉點到 Hyatt/United/Southwest 等夥伴",
+      "旅行延誤保險（延誤 2 小時即觸發）",
+      "主卡持有人可將點數轉給 Freedom 系列加值"
+    ],
+    "application_rules": {
+      "rule_name": "Chase 5/24",
+      "description": "過去 24 個月內新開超過 5 張任何銀行的信用卡（含副卡），Chase 會自動拒絕申請",
+      "one_sapphire_rule": "不能同時持有 Sapphire Preferred 和 Sapphire Reserve，且 48 個月內不能拿過 Sapphire 系列開卡禮"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Excellent (720+)",
+    "is_active": true,
+    "benefits": [
+      {
+        "benefit_category": "travel_credit",
+        "benefit_name": "$300 旅行 Credit",
+        "benefit_description": "每年自動折抵最高 $300 的旅行消費（機票、飯店、租車、Uber 等）",
+        "benefit_value": 300,
+        "benefit_type": "credit",
+        "usage_reminder": "從持卡週年日起算，一年內用完",
+        "reset_date_type": "cardmember_year",
+        "recommended_usage": "刷任何旅行消費即自動折抵，不需額外操作"
+      },
+      {
+        "benefit_category": "hotel_credit",
+        "benefit_name": "$500 The Edit 飯店 Credit",
+        "benefit_description": "透過 The Edit 預訂飯店，每次預訂最高 $250 credit",
+        "benefit_value": 500,
+        "benefit_type": "credit",
+        "reset_date_type": "cardmember_year"
+      },
+      {
+        "benefit_category": "hotel_credit",
+        "benefit_name": "$250 Chase Travel 飯店 Credit",
+        "benefit_description": "透過 Chase Travel 預訂指定連鎖飯店可獲 $250 credit（至 12/31/26）",
+        "benefit_value": 250,
+        "benefit_type": "credit",
+        "reset_date_type": "cardmember_year"
+      },
+      {
+        "benefit_category": "dining_credit",
+        "benefit_name": "$300 餐飲 Credit",
+        "benefit_description": "Sapphire Exclusive Tables 餐飲 credit，每半年 $150",
+        "benefit_value": 300,
+        "benefit_type": "credit",
+        "reset_date_type": "semi_annual"
+      },
+      {
+        "benefit_category": "entertainment",
+        "benefit_name": "$288 Apple TV + Music",
+        "benefit_description": "Apple TV+ 和 Apple Music 訂閱 credit",
+        "benefit_value": 288,
+        "benefit_type": "credit",
+        "reset_date_type": "monthly"
+      },
+      {
+        "benefit_category": "dining_credit",
+        "benefit_name": "$120 DashPass + 每月 Promo",
+        "benefit_description": "DoorDash DashPass 會員資格 + 每月促銷優惠",
+        "benefit_value": 120,
+        "benefit_type": "credit",
+        "reset_date_type": "monthly"
+      },
+      {
+        "benefit_category": "entertainment",
+        "benefit_name": "$300 StubHub Credit",
+        "benefit_description": "StubHub 購票 credit，每半年 $150",
+        "benefit_value": 300,
+        "benefit_type": "credit",
+        "reset_date_type": "semi_annual"
+      },
+      {
+        "benefit_category": "rideshare",
+        "benefit_name": "$120 Lyft Credit + 5x",
+        "benefit_description": "每年 $120 Lyft credit 加上 Lyft 消費 5x UR",
+        "benefit_value": 120,
+        "benefit_type": "credit",
+        "reset_date_type": "annual"
+      },
+      {
+        "benefit_category": "other",
+        "benefit_name": "$120 Peloton Credit + 10x",
+        "benefit_description": "每年 $120 Peloton credit 加上 Peloton 消費 10x UR",
+        "benefit_value": 120,
+        "benefit_type": "credit",
+        "reset_date_type": "annual"
+      },
+      {
+        "benefit_category": "lounge",
+        "benefit_name": "Chase Sapphire Lounge + Priority Pass",
+        "benefit_description": "Chase Sapphire Lounge 和 Priority Pass Select 會員，可使用全球 1,300+ 機場貴賓室",
+        "benefit_value": 500,
+        "benefit_type": "membership",
+        "reset_date_type": "annual"
+      },
+      {
+        "benefit_category": "travel",
+        "benefit_name": "Global Entry / TSA PreCheck",
+        "benefit_description": "報銷 Global Entry 或 TSA PreCheck 申請費用，每 4 年 $120",
+        "benefit_value": 120,
+        "benefit_type": "credit",
+        "reset_date_type": "every_4_years"
+      },
+      {
+        "benefit_category": "hotel",
+        "benefit_name": "IHG Platinum Elite Status",
+        "benefit_description": "自動獲得 IHG Platinum Elite 會員資格",
+        "benefit_value": 0,
+        "benefit_type": "status",
+        "reset_date_type": "annual"
+      },
+      {
+        "benefit_category": "travel",
+        "benefit_name": "旅行延誤保險",
+        "benefit_description": "航班延誤超過 2 小時即可報銷最高 $500 的住宿和餐飲費用",
+        "benefit_value": 500,
+        "benefit_type": "insurance",
+        "reset_date_type": "per_occurrence"
+      },
+      {
+        "benefit_category": "travel",
+        "benefit_name": "UR Portal 加值",
+        "benefit_description": "透過 Chase Travel Portal 訂旅行，UR 點數價值提升 50%（1 UR = 1.5 cents）",
+        "benefit_value": 0,
+        "benefit_type": "multiplier",
+        "reset_date_type": "none"
+      }
+    ]
+  },
+  {
+    "slug": "chase-freedom-unlimited",
+    "issuer": "Chase",
+    "card_name": "Chase Freedom Unlimited",
+    "card_network": "Visa",
+    "annual_fee": 0,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 3 個月內消費滿 $500 可獲得 $250 現金回饋（或 25,000 UR 點數）",
+    "signup_bonus_value_estimate": 250,
+    "signup_bonus_spend_requirement": 500,
+    "signup_bonus_time_limit_months": 3,
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://creditcards.chase.com/cash-back-credit-cards/freedom/unlimited",
+    "status": "active",
+    "earning_rates": {
+      "dining": "3x UR",
+      "drugstores": "3x UR",
+      "travel_via_portal": "5x UR",
+      "general": "1.5% / 1.5x UR"
+    },
+    "key_benefits": [
+      "無年費，一般消費 1.5% 回饋",
+      "餐廳和藥局 3x UR",
+      "搭配 Sapphire 卡可將 UR 點數轉點或加值",
+      "0% APR 前 15 個月"
+    ],
+    "application_rules": {
+      "rule_name": "Chase 5/24",
+      "description": "過去 24 個月內新開超過 5 張任何銀行的信用卡（含副卡），Chase 會自動拒絕申請"
+    },
+    "foreign_transaction_fee": 3,
+    "credit_score_recommended": "Good to Excellent (670+)",
+    "is_active": true,
+    "benefits": []
+  },
+  {
+    "slug": "chase-freedom-flex",
+    "issuer": "Chase",
+    "card_name": "Chase Freedom Flex",
+    "card_network": "Mastercard",
+    "annual_fee": 0,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 3 個月內消費滿 $500 可獲得 $200 現金回饋",
+    "signup_bonus_value_estimate": 200,
+    "signup_bonus_spend_requirement": 500,
+    "signup_bonus_time_limit_months": 3,
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://creditcards.chase.com/cash-back-credit-cards/freedom/flex",
+    "status": "active",
+    "earning_rates": {
+      "rotating_quarterly": "5x UR（每季不同類別，需啟動，每季上限 $1,500）",
+      "dining": "3x UR",
+      "drugstores": "3x UR",
+      "travel_via_portal": "5x UR",
+      "general": "1x UR"
+    },
+    "key_benefits": [
+      "無年費，季度輪轉 5x 回饋",
+      "餐廳和藥局 3x UR",
+      "搭配 Sapphire 卡可將 UR 點數轉點或加值",
+      "Mastercard World Elite 權益",
+      "手機保護計劃（用此卡付手機帳單）"
+    ],
+    "application_rules": {
+      "rule_name": "Chase 5/24",
+      "description": "過去 24 個月內新開超過 5 張任何銀行的信用卡（含副卡），Chase 會自動拒絕申請"
+    },
+    "foreign_transaction_fee": 3,
+    "credit_score_recommended": "Good to Excellent (670+)",
+    "is_active": true,
+    "benefits": [
+      {
+        "benefit_category": "insurance",
+        "benefit_name": "手機保護計劃",
+        "benefit_description": "用此卡支付每月手機帳單，手機損壞或被盜可獲最高 $800 理賠（$50 自付額）",
+        "benefit_value": 800,
+        "benefit_type": "insurance",
+        "reset_date_type": "per_occurrence",
+        "recommended_usage": "每月用這張卡自動繳手機帳單"
+      }
+    ]
+  },
+  {
+    "slug": "chase-freedom-rise",
+    "issuer": "Chase",
+    "card_name": "Chase Freedom Rise",
+    "card_network": "Visa",
+    "annual_fee": 0,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 3 個月內啟用自動扣款（autopay）並維持至少 90 天可獲 $25 statement credit",
+    "signup_bonus_value_estimate": 25,
+    "signup_bonus_spend_requirement": 0,
+    "signup_bonus_time_limit_months": 3,
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://creditcards.chase.com/cash-back-credit-cards/freedom/rise",
+    "status": "active",
+    "earning_rates": {
+      "general": "1.5% cash back"
+    },
+    "key_benefits": [
+      "無年費，適合建立信用",
+      "一般消費 1.5% 回饋",
+      "Chase Credit Journey 免費信用分數監測",
+      "無需信用歷史即可申請"
+    ],
+    "application_rules": {
+      "rule_name": "Chase 5/24",
+      "description": "過去 24 個月內新開超過 5 張任何銀行的信用卡（含副卡），Chase 會自動拒絕申請"
+    },
+    "foreign_transaction_fee": 3,
+    "credit_score_recommended": "Fair to Good (580+)",
+    "is_active": true,
+    "benefits": []
+  },
+  {
+    "slug": "chase-ink-business-preferred",
+    "issuer": "Chase",
+    "card_name": "Ink Business Preferred Credit Card",
+    "card_network": "Visa",
+    "annual_fee": 95,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 3 個月內消費滿 $8,000 可獲得 100,000 Ultimate Rewards 點數",
+    "signup_bonus_value_estimate": 1250,
+    "signup_bonus_spend_requirement": 8000,
+    "signup_bonus_time_limit_months": 3,
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://creditcards.chase.com/business-credit-cards/ink/business-preferred",
+    "status": "active",
+    "earning_rates": {
+      "travel": "3x UR（每年首 $150,000）",
+      "shipping": "3x UR（每年首 $150,000）",
+      "internet_cable_phone": "3x UR（每年首 $150,000）",
+      "advertising_social_media": "3x UR（每年首 $150,000）",
+      "general": "1x UR"
+    },
+    "key_benefits": [
+      "UR 點數透過 portal 訂旅行價值提升 25%",
+      "可轉點到 Hyatt/United 等夥伴",
+      "開卡禮 100K UR 是 Chase 商業卡中最高之一",
+      "可將 UR 點數轉給個人 Sapphire 卡",
+      "DashPass 會員資格 + 每月 $10 DoorDash grocery credit"
+    ],
+    "application_rules": {
+      "rule_name": "Chase 5/24",
+      "description": "過去 24 個月內新開超過 5 張任何銀行的信用卡（含副卡），Chase 會自動拒絕申請"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Good to Excellent (670+)",
+    "is_active": true,
+    "benefits": [
+      {
+        "benefit_category": "insurance",
+        "benefit_name": "手機保護計劃",
+        "benefit_description": "用此卡支付每月手機帳單，手機損壞或被盜可獲最高 $1,000 理賠",
+        "benefit_value": 1000,
+        "benefit_type": "insurance",
+        "reset_date_type": "per_occurrence"
+      }
+    ]
+  },
+  {
+    "slug": "chase-ink-business-cash",
+    "issuer": "Chase",
+    "card_name": "Ink Business Cash Credit Card",
+    "card_network": "Visa",
+    "annual_fee": 0,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 3 個月內消費滿 $6,000 可獲得 $750 現金回饋",
+    "signup_bonus_value_estimate": 750,
+    "signup_bonus_spend_requirement": 6000,
+    "signup_bonus_time_limit_months": 3,
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://creditcards.chase.com/business-credit-cards/ink/cash",
+    "status": "active",
+    "earning_rates": {
+      "office_supply_stores": "5x UR（每年首 $25,000）",
+      "internet_cable_phone": "5x UR（每年首 $25,000）",
+      "gas_stations": "2x UR（每年首 $25,000）",
+      "dining": "2x UR（每年首 $25,000）",
+      "general": "1x UR"
+    },
+    "key_benefits": [
+      "無年費商業卡",
+      "辦公用品店 5x 回饋（含 gift card 購買）",
+      "搭配 Ink Preferred 或 Sapphire 可轉點",
+      "不計入 5/24 個人卡額度"
+    ],
+    "application_rules": {
+      "rule_name": "Chase 5/24",
+      "description": "過去 24 個月內新開超過 5 張任何銀行的信用卡（含副卡），Chase 會自動拒絕申請"
+    },
+    "foreign_transaction_fee": 3,
+    "credit_score_recommended": "Good to Excellent (670+)",
+    "is_active": true,
+    "benefits": []
+  },
+  {
+    "slug": "chase-ink-business-unlimited",
+    "issuer": "Chase",
+    "card_name": "Ink Business Unlimited Credit Card",
+    "card_network": "Visa",
+    "annual_fee": 0,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 3 個月內消費滿 $6,000 可獲得 $750 現金回饋",
+    "signup_bonus_value_estimate": 750,
+    "signup_bonus_spend_requirement": 6000,
+    "signup_bonus_time_limit_months": 3,
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://creditcards.chase.com/business-credit-cards/ink/unlimited",
+    "status": "active",
+    "earning_rates": {
+      "general": "1.5x UR"
+    },
+    "key_benefits": [
+      "無年費商業卡",
+      "所有消費 1.5x UR 無上限",
+      "搭配 Ink Preferred 或 Sapphire 可轉點",
+      "不計入 5/24 個人卡額度",
+      "0% APR 前 12 個月"
+    ],
+    "application_rules": {
+      "rule_name": "Chase 5/24",
+      "description": "過去 24 個月內新開超過 5 張任何銀行的信用卡（含副卡），Chase 會自動拒絕申請"
+    },
+    "foreign_transaction_fee": 3,
+    "credit_score_recommended": "Good to Excellent (670+)",
+    "is_active": true,
+    "benefits": []
+  },
+  {
+    "slug": "chase-united-explorer",
+    "issuer": "Chase",
+    "card_name": "United Explorer Card",
+    "card_network": "Visa",
+    "annual_fee": 150,
+    "annual_fee_waived_first_year": true,
+    "signup_bonus_description": "開卡後 3 個月內消費滿 $3,000 得 70,000 miles + 3 個月內新增副卡再得 10,000 miles（共 80,000）",
+    "signup_bonus_value_estimate": 1040,
+    "signup_bonus_spend_requirement": 3000,
+    "signup_bonus_time_limit_months": 3,
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://creditcards.chase.com/travel-credit-cards/united/united-explorer",
+    "status": "active",
+    "earning_rates": {
+      "united_flights": "9x United miles（United 機票）",
+      "united_other": "3x United miles（其他 United 消費）",
+      "dining": "2x United miles",
+      "hotel": "2x United miles",
+      "general": "1x United miles"
+    },
+    "key_benefits": [
+      "免費託運第一件行李（同行最多一人也免費）",
+      "優先登機",
+      "每年 2 張 United Club 一次性通行證",
+      "25% 機上消費折扣",
+      "$100 United travel credit（年度消費 $10,000 後）",
+      "10,000 mile 獎勵機票折扣（年度消費 $20,000 後）",
+      "$500+ partner credits（hotels、rideshare、Instacart、Avis/Budget、JSX）",
+      "Global Entry / TSA PreCheck / NEXUS credit 每 4 年 $120"
+    ],
+    "application_rules": {
+      "rule_name": "Chase 5/24",
+      "description": "過去 24 個月內新開超過 5 張任何銀行的信用卡（含副卡），Chase 會自動拒絕申請"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Good to Excellent (670+)",
+    "is_active": true,
+    "benefits": [
+      {
+        "benefit_category": "airline",
+        "benefit_name": "免費託運行李",
+        "benefit_description": "持卡人及同一訂位的一位旅伴可免費託運第一件行李",
+        "benefit_value": 70,
+        "benefit_type": "waiver",
+        "reset_date_type": "per_flight",
+        "recommended_usage": "用此卡購買 United 機票即可享有"
+      }
+    ]
+  },
+  {
+    "slug": "chase-united-quest",
+    "issuer": "Chase",
+    "card_name": "United Quest Card",
+    "card_network": "Visa",
+    "annual_fee": 350,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 3 個月內消費滿 $4,000 得 90,000 United miles + 3,000 PQP + 3 個月內新增副卡再得 10,000 miles（共 100,000 miles + 3,000 PQP）",
+    "signup_bonus_value_estimate": 1300,
+    "signup_bonus_spend_requirement": 4000,
+    "signup_bonus_time_limit_months": 3,
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://creditcards.chase.com/travel-credit-cards/united/united-quest",
+    "status": "active",
+    "earning_rates": {
+      "united_flights": "10x United miles（United 機票）",
+      "united_other": "4x United miles（其他 United 消費）",
+      "travel": "2x United miles",
+      "dining": "2x United miles",
+      "streaming": "2x United miles",
+      "general": "1x United miles"
+    },
+    "key_benefits": [
+      "每年 $200 United 旅行 credit",
+      "免費託運前兩件行李",
+      "Priority 登機",
+      "10,000 mile 獎勵機票折扣（每年 + 年度消費 $20,000 後再一次）",
+      "1,000 annual card bonus PQP",
+      "Global Entry / TSA PreCheck / NEXUS credit（每 4 年 $120）",
+      "$530+ partner credits（hotels、rideshare、Instacart、JSX、Avis/Budget）"
+    ],
+    "application_rules": {
+      "rule_name": "Chase 5/24",
+      "description": "過去 24 個月內新開超過 5 張任何銀行的信用卡（含副卡），Chase 會自動拒絕申請"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Good to Excellent (670+)",
+    "is_active": true,
+    "benefits": [
+      {
+        "benefit_category": "travel_credit",
+        "benefit_name": "$125 United 旅行 Credit",
+        "benefit_description": "每年自動折抵最高 $125 的 United 航空消費",
+        "benefit_value": 125,
+        "benefit_type": "credit",
+        "reset_date_type": "cardmember_year"
+      }
+    ]
+  },
+  {
+    "slug": "chase-united-club-infinite",
+    "issuer": "Chase",
+    "card_name": "United Club Infinite Card",
+    "card_network": "Visa",
+    "annual_fee": 695,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 3 個月內消費滿 $5,000 得 100,000 miles + 3,000 PQP + 3 個月內新增副卡再得 10,000 miles（共 110,000 + 3,000 PQP）",
+    "signup_bonus_value_estimate": 1430,
+    "signup_bonus_spend_requirement": 5000,
+    "signup_bonus_time_limit_months": 3,
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
+    "status": "active",
+    "earning_rates": {
+      "united_flights": "11x United miles（United 機票）",
+      "united_other": "5x United miles（其他 United 消費）",
+      "renowned_hotels": "5x United miles（Renowned Hotels prepaid）",
+      "travel": "2x United miles",
+      "dining": "2x United miles",
+      "general": "1x United miles"
+    },
+    "key_benefits": [
+      "United Club 貴賓室無限使用（價值 $750+）",
+      "免費託運前兩件行李（本人 + 同行一位）",
+      "Global Entry / TSA PreCheck / NEXUS credit（每 4 年 $120）",
+      "Premier Access（優先報到/安檢/登機/行李）",
+      "1,500 annual card bonus PQP",
+      "每年 20,000 mile 獎勵機票折扣",
+      "$875+ partner credits（hotel、rideshare、car rental、Instacart、JSX）"
+    ],
+    "application_rules": {
+      "rule_name": "Chase 5/24",
+      "description": "過去 24 個月內新開超過 5 張任何銀行的信用卡（含副卡），Chase 會自動拒絕申請"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Excellent (720+)",
+    "is_active": true,
+    "benefits": [
+      {
+        "benefit_category": "lounge",
+        "benefit_name": "United Club 貴賓室",
+        "benefit_description": "持卡人可無限次使用全球 United Club 貴賓室",
+        "benefit_value": 650,
+        "benefit_type": "membership",
+        "reset_date_type": "annual"
+      }
+    ]
+  },
+  {
+    "slug": "chase-world-of-hyatt",
+    "issuer": "Chase",
+    "card_name": "World of Hyatt Credit Card",
+    "card_network": "Visa",
+    "annual_fee": 95,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 3 個月內消費滿 $3,000 可獲得 30,000 Hyatt 點數，加上前 6 個月內消費最多 $15,000 享 2x 點數（可多賺 30,000 點），共最高 60,000 點",
+    "signup_bonus_value_estimate": 1200,
+    "signup_bonus_spend_requirement": 3000,
+    "signup_bonus_time_limit_months": 3,
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://creditcards.chase.com/travel-credit-cards/world-of-hyatt-credit-card",
+    "status": "active",
+    "earning_rates": {
+      "hyatt_purchases": "4x Hyatt points",
+      "dining": "2x Hyatt points",
+      "airline_tickets": "2x Hyatt points",
+      "local_transit_commuting": "2x Hyatt points",
+      "fitness_gym": "2x Hyatt points",
+      "general": "1x Hyatt points"
+    },
+    "key_benefits": [
+      "每年持卡週年贈送 1 晚 Category 1-4 Free Night Award",
+      "自動獲得 Discoverist 會員資格",
+      "每年消費滿 $15,000 可額外獲得 1 晚 Free Night（Cat 1-4）",
+      "Hyatt 點數價值是飯店點數中最高的（~2 cpp）",
+      "2 額外 Qualifying Night Credits"
+    ],
+    "application_rules": {
+      "rule_name": "Chase 5/24",
+      "description": "過去 24 個月內新開超過 5 張任何銀行的信用卡（含副卡），Chase 會自動拒絕申請"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Good to Excellent (670+)",
+    "is_active": true,
+    "benefits": [
+      {
+        "benefit_category": "hotel",
+        "benefit_name": "年度 Free Night Award",
+        "benefit_description": "每年持卡週年自動獲得 1 晚 Category 1-4 Free Night Award",
+        "benefit_value": 150,
+        "benefit_type": "free_night",
+        "usage_reminder": "Free Night 會在週年日後幾週發放，有效期通常為一年",
+        "reset_date_type": "cardmember_year",
+        "recommended_usage": "用在 Category 4 飯店以獲得最大價值"
+      }
+    ]
+  },
+  {
+    "slug": "chase-marriott-bonvoy-boundless",
+    "issuer": "Chase",
+    "card_name": "Marriott Bonvoy Boundless",
+    "card_network": "Visa",
+    "annual_fee": 95,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 3 個月內消費滿 $3,000 得 3 晚 Free Night Awards + 4 個月內消費滿 $4,000 再得 1 晚（共 4 晚 FNA，每晚最高 50,000 點）+ $100 airline credit（2026 限定）",
+    "signup_bonus_value_estimate": 1100,
+    "signup_bonus_spend_requirement": 3000,
+    "signup_bonus_time_limit_months": 3,
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/boundless",
+    "offer_expires_at": "2026-10-01",
+    "status": "active",
+    "earning_rates": {
+      "marriott_purchases": "6x Marriott Bonvoy points",
+      "dining_gas_groceries": "3x Marriott Bonvoy points（前 $6,000/年合計）",
+      "general": "2x Marriott Bonvoy points"
+    },
+    "key_benefits": [
+      "Marriott 消費 6x 回饋",
+      "每年持卡週年贈送 1 晚 Free Night Award（最高 35,000 點）",
+      "自動獲得 Silver Elite 會員資格",
+      "每年 15 晚 Elite Night Credits"
+    ],
+    "application_rules": {
+      "rule_name": "Chase 5/24",
+      "description": "過去 24 個月內新開超過 5 張任何銀行的信用卡（含副卡），Chase 會自動拒絕申請"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Good to Excellent (670+)",
+    "is_active": true,
+    "benefits": [
+      {
+        "benefit_category": "hotel",
+        "benefit_name": "年度 Free Night Award",
+        "benefit_description": "每年持卡週年自動獲得 1 晚 Free Night Award（最高可用於 35,000 點的飯店）",
+        "benefit_value": 150,
+        "benefit_type": "free_night",
+        "reset_date_type": "cardmember_year"
+      }
+    ]
+  },
+  {
+    "slug": "chase-marriott-bonvoy-bold",
+    "issuer": "Chase",
+    "card_name": "Marriott Bonvoy Bold",
+    "card_network": "Visa",
+    "annual_fee": 0,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 3 個月內消費滿 $1,000 可獲得 30,000 Marriott Bonvoy 點數",
+    "signup_bonus_value_estimate": 210,
+    "signup_bonus_spend_requirement": 1000,
+    "signup_bonus_time_limit_months": 3,
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/bold",
+    "status": "active",
+    "earning_rates": {
+      "marriott_purchases": "3x Marriott Bonvoy points",
+      "groceries_rideshare_delivery_streaming": "2x Marriott Bonvoy points（groceries、rideshare、food delivery、streaming/internet/cable/phone）",
+      "general": "1x Marriott Bonvoy points"
+    },
+    "key_benefits": [
+      "無年費 Marriott 卡",
+      "Marriott 消費 3x 回饋",
+      "自動獲得 Silver Elite 會員資格",
+      "5 Elite Night Credits",
+      "Pay Yourself Back（airline / hotel 消費點數折抵，每年上限 $750）"
+    ],
+    "application_rules": {
+      "rule_name": "Chase 5/24",
+      "description": "過去 24 個月內新開超過 5 張任何銀行的信用卡（含副卡），Chase 會自動拒絕申請"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Good to Excellent (670+)",
+    "is_active": true,
+    "benefits": []
+  },
+  {
+    "slug": "chase-ihg-one-rewards-premier",
+    "issuer": "Chase",
+    "card_name": "IHG One Rewards Premier Credit Card",
+    "card_network": "Mastercard",
+    "annual_fee": 99,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 3 個月內消費滿 $3,000 可獲得 140,000 IHG 點數",
+    "signup_bonus_value_estimate": 700,
+    "signup_bonus_spend_requirement": 3000,
+    "signup_bonus_time_limit_months": 3,
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier",
+    "status": "active",
+    "earning_rates": {
+      "ihg_purchases": "10x IHG points",
+      "dining": "5x IHG points",
+      "gas": "5x IHG points",
+      "travel": "5x IHG points",
+      "general": "3x IHG points"
+    },
+    "key_benefits": [
+      "IHG 消費 10x 點數",
+      "每年持卡週年贈送 1 晚 Free Night Award（最高 40,000 點）",
+      "自動獲得 Platinum Elite 會員資格",
+      "第 4 晚免費（用點數兌換時）",
+      "Global Entry / TSA PreCheck 報銷",
+      "年度消費 $20,000 得 $100 credit + 10,000 點",
+      "年度消費 $40,000 升級 Diamond Elite"
+    ],
+    "application_rules": {
+      "rule_name": "Chase 5/24",
+      "description": "過去 24 個月內新開超過 5 張任何銀行的信用卡（含副卡），Chase 會自動拒絕申請"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Good to Excellent (670+)",
+    "is_active": true,
+    "benefits": [
+      {
+        "benefit_category": "hotel",
+        "benefit_name": "年度 Free Night Award",
+        "benefit_description": "每年持卡週年自動獲得 1 晚 Free Night Award（最高可用於 40,000 點的飯店）",
+        "benefit_value": 200,
+        "benefit_type": "free_night",
+        "reset_date_type": "cardmember_year"
+      }
+    ]
+  },
+  {
+    "slug": "chase-southwest-priority",
+    "issuer": "Chase",
+    "card_name": "Southwest Rapid Rewards Priority Credit Card",
+    "card_network": "Visa",
+    "annual_fee": 229,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 3 個月內消費滿 $2,000 可獲得 60,000 Southwest 點數",
+    "signup_bonus_value_estimate": 840,
+    "signup_bonus_spend_requirement": 2000,
+    "signup_bonus_time_limit_months": 3,
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://creditcards.chase.com/travel-credit-cards/southwest/priority",
+    "status": "active",
+    "earning_rates": {
+      "southwest_purchases": "4x SW points",
+      "gas_stations": "2x SW points",
+      "dining": "2x SW points",
+      "general": "1x SW points"
+    },
+    "key_benefits": [
+      "免費託運第一件行李（本人 + 最多 8 位同行）",
+      "每年 7,500 點週年禮",
+      "Preferred seat 座位選擇（訂位時）",
+      "無限次 Extra Legroom 座位升級（起飛前 48 小時內）",
+      "Group 5 登機（更早搶行李艙）",
+      "25% 機上消費折扣",
+      "累積 Companion Pass 所需點數",
+      "DashPass 會員資格 1 年"
+    ],
+    "application_rules": {
+      "rule_name": "Chase 5/24",
+      "description": "過去 24 個月內新開超過 5 張任何銀行的信用卡（含副卡），Chase 會自動拒絕申請"
+    },
+    "foreign_transaction_fee": 3,
+    "credit_score_recommended": "Good to Excellent (670+)",
+    "is_active": true,
+    "benefits": []
+  },
+  {
+    "slug": "chase-amazon-prime-visa",
+    "issuer": "Chase",
+    "card_name": "Amazon Prime Visa",
+    "card_network": "Visa",
+    "annual_fee": 0,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "核卡後立即獲得 $150 Amazon Gift Card（需 Prime 會員）",
+    "signup_bonus_value_estimate": 150,
+    "signup_bonus_spend_requirement": 0,
+    "signup_bonus_time_limit_months": 0,
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://creditcards.chase.com/cash-back-credit-cards/amazon-prime-rewards",
+    "status": "active",
+    "earning_rates": {
+      "amazon": "5% cash back（需 Prime 會員）",
+      "whole_foods": "5% cash back（需 Prime 會員）",
+      "chase_travel": "5% cash back（需 Prime 會員）",
+      "gas": "2% cash back",
+      "dining": "2% cash back",
+      "transit_rideshare": "2% cash back",
+      "general": "1% cash back"
+    },
+    "key_benefits": [
+      "Amazon 和 Whole Foods 5% 回饋（需 Prime 會員）",
+      "無年費（但需 Prime 會員 $139/年）",
+      "無外幣交易手續費",
+      "無 Prime 會員時 Amazon 回饋降為 3%"
+    ],
+    "application_rules": {
+      "rule_name": "Chase 5/24",
+      "description": "過去 24 個月內新開超過 5 張任何銀行的信用卡（含副卡），Chase 會自動拒絕申請"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Good to Excellent (670+)",
+    "is_active": true,
+    "benefits": []
+  }
+]

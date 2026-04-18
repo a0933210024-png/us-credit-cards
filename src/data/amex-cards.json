@@ -1,0 +1,886 @@
+[
+  {
+    "slug": "amex-platinum",
+    "issuer": "American Express",
+    "card_name": "The Platinum Card from American Express",
+    "card_network": "American Express",
+    "annual_fee": 895,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 6 個月內消費滿 $12,000 可獲得最高 175,000 Membership Rewards 點數（因人而異）",
+    "signup_bonus_value_estimate": 3500,
+    "signup_bonus_spend_requirement": 12000,
+    "signup_bonus_time_limit_months": 6,
+    "earning_rates": {
+      "flights": "5x MR（直接向航空公司或透過 Amex Travel，年上限 $500,000）",
+      "prepaid_hotels_amex_travel": "5x MR",
+      "general": "1x MR"
+    },
+    "key_benefits": [
+      "$600 Hotel Credit（透過 Amex Travel 訂 FHR/THC 飯店每半年 $300）",
+      "$200 航空 Fee Credit（選定一家航空公司，折抵行李費/座位升級等）",
+      "$200 Uber Credit（每月 $15，12 月額外 $20）",
+      "$300 Entertainment Credit（每月 $25）",
+      "$209 CLEAR+ Credit",
+      "$400 Resy Dining Credit",
+      "$300 lululemon Credit（每季 $75）",
+      "$200 Oura Ring Credit（每年一次，透過 ouraring.com 購買）",
+      "Global Entry / TSA PreCheck 報銷（每 4 年 $100）",
+      "Centurion Lounge 免費使用",
+      "Priority Pass Select 貴賓室",
+      "Fine Hotels + Resorts (FHR) 訂房享升等/早餐/晚退房",
+      "Hilton Gold / Marriott Gold Elite 會員資格"
+    ],
+    "application_rules": {
+      "rule_name": "Amex Once-Per-Lifetime",
+      "description": "同一張卡的開卡禮一輩子只能拿一次",
+      "popup_rule": "系統判斷你不夠「有利潤」會跳出 pop-up 阻擋開卡禮",
+      "note": "Platinum 是 Charge Card，不受 5 credit card limit 限制"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Excellent (720+)",
+    "is_active": true,
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://thepointsguy.com/credit-cards/amex-platinum-current-offer/",
+    "status": "active",
+    "benefits": [
+      {
+        "benefit_category": "hotel_credit",
+        "benefit_name": "$600 Hotel Credit",
+        "benefit_description": "透過 Amex Travel 訂 FHR 或 THC 飯店，每半年 $300 credit（1-6月 / 7-12月）",
+        "benefit_value": 600,
+        "benefit_type": "credit",
+        "usage_reminder": "每半年 $300，未使用不累計",
+        "reset_date_type": "semi_annual",
+        "recommended_usage": "訂 Fine Hotels + Resorts 同時享受升等和早餐"
+      },
+      {
+        "benefit_category": "airline_credit",
+        "benefit_name": "$200 Airline Fee Credit",
+        "benefit_description": "每年選定一家航空公司，可報銷最高 $200 的附加費用（行李費、座位選擇等，不含機票）",
+        "benefit_value": 200,
+        "benefit_type": "credit",
+        "usage_reminder": "每年 1 月需重新選擇航空公司，全年有效",
+        "reset_date_type": "calendar_year",
+        "recommended_usage": "選擇你最常搭的航空公司，用來折抵行李費或購買 gift card"
+      },
+      {
+        "benefit_category": "rideshare",
+        "benefit_name": "$200 Uber Credit",
+        "benefit_description": "每月 $15 Uber credit（12 月額外 $20），自動加入 Uber Cash",
+        "benefit_value": 200,
+        "benefit_type": "credit",
+        "usage_reminder": "每月 credit 不用即過期，記得每月用完",
+        "reset_date_type": "monthly",
+        "recommended_usage": "用 Uber Eats 點餐或叫車都可以"
+      },
+      {
+        "benefit_category": "entertainment",
+        "benefit_name": "$300 Entertainment Credit",
+        "benefit_description": "每月最高 $25 折抵指定娛樂串流服務",
+        "benefit_value": 300,
+        "benefit_type": "credit",
+        "usage_reminder": "每月 $25，需用 Platinum 卡訂閱",
+        "reset_date_type": "monthly"
+      },
+      {
+        "benefit_category": "travel",
+        "benefit_name": "$209 CLEAR+ Credit",
+        "benefit_description": "報銷 CLEAR+ 會員費用，享快速通關",
+        "benefit_value": 209,
+        "benefit_type": "credit",
+        "reset_date_type": "annual"
+      },
+      {
+        "benefit_category": "dining_credit",
+        "benefit_name": "$400 Resy Dining Credit",
+        "benefit_description": "透過 Resy 預訂指定餐廳的 dining credit",
+        "benefit_value": 400,
+        "benefit_type": "credit",
+        "reset_date_type": "cardmember_year"
+      },
+      {
+        "benefit_category": "shopping",
+        "benefit_name": "$300 lululemon Credit",
+        "benefit_description": "每季 $75 lululemon 消費 credit",
+        "benefit_value": 300,
+        "benefit_type": "credit",
+        "usage_reminder": "每季 $75，記得每季使用",
+        "reset_date_type": "quarterly"
+      },
+      {
+        "benefit_category": "travel",
+        "benefit_name": "Global Entry / TSA PreCheck",
+        "benefit_description": "報銷 Global Entry ($100) 或 TSA PreCheck ($78) 申請費用，每 4 年一次",
+        "benefit_value": 100,
+        "benefit_type": "credit",
+        "reset_date_type": "every_4_years"
+      },
+      {
+        "benefit_category": "lounge",
+        "benefit_name": "Centurion Lounge",
+        "benefit_description": "免費使用全美 Centurion Lounge，可帶 2 位同行旅客（或無限同行若消費滿 $75K）",
+        "benefit_value": 500,
+        "benefit_type": "membership",
+        "reset_date_type": "annual"
+      },
+      {
+        "benefit_category": "lounge",
+        "benefit_name": "Priority Pass Select",
+        "benefit_description": "免費 Priority Pass Select 會員，可使用全球 1,400+ 機場貴賓室",
+        "benefit_value": 429,
+        "benefit_type": "membership",
+        "reset_date_type": "annual"
+      },
+      {
+        "benefit_category": "hotel",
+        "benefit_name": "Hilton Gold / Marriott Gold Elite",
+        "benefit_description": "自動獲得 Hilton Gold 和 Marriott Gold Elite 會員資格，享房型升等和免費早餐",
+        "benefit_value": 0,
+        "benefit_type": "status",
+        "reset_date_type": "annual"
+      }
+    ]
+  },
+  {
+    "slug": "amex-gold",
+    "issuer": "American Express",
+    "card_name": "American Express Gold Card",
+    "card_network": "American Express",
+    "annual_fee": 325,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 6 個月內消費滿 $6,000 可獲得最高 100,000 Membership Rewards 點數（因人而異）",
+    "signup_bonus_value_estimate": 2000,
+    "signup_bonus_spend_requirement": 6000,
+    "signup_bonus_time_limit_months": 6,
+    "earning_rates": {
+      "dining": "4x MR（全球餐廳，年上限 $50,000）",
+      "groceries": "4x MR（美國超市，年上限 $25,000）",
+      "flights": "3x MR（直接向航空公司或 Amex Travel）",
+      "prepaid_hotels_amex_travel": "2x MR",
+      "general": "1x MR"
+    },
+    "key_benefits": [
+      "$120 Dining Credit（每月 $10，可用於 Grubhub/Cheesecake Factory 等）",
+      "$120 Uber Credit（每月 $10 Uber Cash）",
+      "$84 Dunkin' Credit（每月 $7）",
+      "$100 Resy Credit（每半年 $50）",
+      "餐廳和超市 4x MR 是市場最強",
+      "轉點到 Delta/ANA/Singapore Airlines 等夥伴"
+    ],
+    "application_rules": {
+      "rule_name": "Amex Once-Per-Lifetime",
+      "description": "同一張卡的開卡禮一輩子只能拿一次",
+      "popup_rule": "系統判斷你不夠「有利潤」會跳出 pop-up 阻擋開卡禮",
+      "note": "Gold 是 Charge Card，不受 5 credit card limit 限制"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Good to Excellent (670+)",
+    "is_active": true,
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://thepointsguy.com/credit-cards/amex-gold-current-offer/",
+    "status": "active",
+    "benefits": [
+      {
+        "benefit_category": "dining_credit",
+        "benefit_name": "$120 Dining Credit",
+        "benefit_description": "每月 $10 dining credit，可用於 Grubhub、The Cheesecake Factory、Goldbelly、Wine.com、Milk Bar 及其他指定餐廳",
+        "benefit_value": 120,
+        "benefit_type": "credit",
+        "usage_reminder": "每月 $10 不累計，記得每月使用",
+        "reset_date_type": "monthly",
+        "recommended_usage": "最簡單的方式是每月用 Grubhub 點一次餐"
+      },
+      {
+        "benefit_category": "rideshare",
+        "benefit_name": "$120 Uber Credit",
+        "benefit_description": "每月 $10 Uber Credit，自動加入 Uber Cash，可用於 Uber 或 Uber Eats",
+        "benefit_value": 120,
+        "benefit_type": "credit",
+        "usage_reminder": "每月 $10 不用即過期",
+        "reset_date_type": "monthly"
+      },
+      {
+        "benefit_category": "dining_credit",
+        "benefit_name": "$84 Dunkin' Credit",
+        "benefit_description": "每月 $7 Dunkin' Credit，自動折抵 Dunkin' 消費",
+        "benefit_value": 84,
+        "benefit_type": "credit",
+        "usage_reminder": "每月 $7 不累計",
+        "reset_date_type": "monthly"
+      },
+      {
+        "benefit_category": "dining_credit",
+        "benefit_name": "$100 Resy Credit",
+        "benefit_description": "每半年 $50 透過 Resy 預訂指定餐廳的 dining credit",
+        "benefit_value": 100,
+        "benefit_type": "credit",
+        "usage_reminder": "每半年 $50，記得在半年結束前使用",
+        "reset_date_type": "semi_annual"
+      }
+    ]
+  },
+  {
+    "slug": "amex-green",
+    "issuer": "American Express",
+    "card_name": "American Express Green Card",
+    "card_network": "American Express",
+    "annual_fee": 150,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 6 個月內消費滿 $3,000 可獲得 40,000 Membership Rewards 點數",
+    "signup_bonus_value_estimate": 800,
+    "signup_bonus_spend_requirement": 3000,
+    "signup_bonus_time_limit_months": 6,
+    "earning_rates": {
+      "travel": "3x MR",
+      "transit": "3x MR",
+      "dining": "3x MR",
+      "general": "1x MR"
+    },
+    "key_benefits": [
+      "旅行/交通/餐廳 3x MR",
+      "$199 CLEAR Plus Credit",
+      "LoungeBuddy 機場貴賓室（每年使用 2 次）",
+      "轉點到航空/飯店夥伴"
+    ],
+    "application_rules": {
+      "rule_name": "Amex Once-Per-Lifetime",
+      "description": "同一張卡的開卡禮一輩子只能拿一次",
+      "popup_rule": "系統判斷你不夠「有利潤」會跳出 pop-up 阻擋開卡禮",
+      "note": "Green 是 Charge Card，不受 5 credit card limit 限制"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Good to Excellent (670+)",
+    "is_active": true,
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://thepointsguy.com/credit-cards/amex-green-current-offer/",
+    "status": "active",
+    "benefits": [
+      {
+        "benefit_category": "travel",
+        "benefit_name": "$199 CLEAR Plus Credit",
+        "benefit_description": "報銷 CLEAR Plus 會員費用，享快速通關（CLEAR 會費已升至 $199）",
+        "benefit_value": 199,
+        "benefit_type": "credit",
+        "reset_date_type": "annual"
+      }
+    ]
+  },
+  {
+    "slug": "amex-blue-cash-preferred",
+    "issuer": "American Express",
+    "card_name": "Blue Cash Preferred Card from American Express",
+    "card_network": "American Express",
+    "annual_fee": 95,
+    "annual_fee_waived_first_year": true,
+    "signup_bonus_description": "開卡後 6 個月內消費滿 $3,000 可獲得 $250 statement credit",
+    "signup_bonus_value_estimate": 250,
+    "signup_bonus_spend_requirement": 3000,
+    "signup_bonus_time_limit_months": 6,
+    "earning_rates": {
+      "groceries": "6%（美國超市，年上限 $6,000）",
+      "streaming": "6%",
+      "gas_transit": "3%",
+      "general": "1%"
+    },
+    "key_benefits": [
+      "美國超市 6% 回饋是同類最高",
+      "串流服務 6% 回饋",
+      "交通和加油 3% 回饋",
+      "$120 Disney+/Hulu/ESPN+ credit（每月 $10）",
+      "0% APR 前 12 個月",
+      "適合家庭超市和串流消費"
+    ],
+    "application_rules": {
+      "rule_name": "Amex 2/90 + 5 Card Limit",
+      "description": "90 天內最多核准 2 張 Amex credit card；最多同時持有 5 張 Amex credit card（charge card 不算）",
+      "once_per_lifetime": "同一張卡的開卡禮一輩子只能拿一次",
+      "popup_rule": "系統判斷你不夠「有利潤」會跳出 pop-up 阻擋開卡禮"
+    },
+    "foreign_transaction_fee": 2.7,
+    "credit_score_recommended": "Good to Excellent (670+)",
+    "is_active": true,
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://www.nerdwallet.com/credit-cards/reviews/american-express-blue-cash-preferred",
+    "status": "active",
+    "benefits": [
+      {
+        "benefit_category": "streaming",
+        "benefit_name": "$120 Disney+/Hulu/ESPN+ Credit",
+        "benefit_description": "每月 $10 Disney+、Hulu 或 ESPN+ 訂閱 credit",
+        "benefit_value": 120,
+        "benefit_type": "credit",
+        "usage_reminder": "每月 $10 不累計，需用此卡訂閱",
+        "reset_date_type": "monthly"
+      }
+    ]
+  },
+  {
+    "slug": "amex-blue-cash-everyday",
+    "issuer": "American Express",
+    "card_name": "Blue Cash Everyday Card from American Express",
+    "card_network": "American Express",
+    "annual_fee": 0,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 6 個月內消費滿 $2,000 可獲得 $200 statement credit",
+    "signup_bonus_value_estimate": 200,
+    "signup_bonus_spend_requirement": 2000,
+    "signup_bonus_time_limit_months": 6,
+    "earning_rates": {
+      "groceries": "3% cash back（美國超市，每年首 $6,000）",
+      "online_shopping": "3% cash back",
+      "gas": "3% cash back（美國加油站，每年首 $6,000）",
+      "general": "1% cash back"
+    },
+    "key_benefits": [
+      "無年費",
+      "超市和網購 3% 回饋",
+      "加油 3% 回饋",
+      "$84 Disney Streaming Credit（每月 $7）",
+      "$180 Home Chef Credit（每月 $15）",
+      "0% APR 前 15 個月"
+    ],
+    "application_rules": {
+      "rule_name": "Amex 2/90 + 5 Card Limit",
+      "description": "90 天內最多核准 2 張 Amex credit card；最多同時持有 5 張 Amex credit card（charge card 不算）",
+      "once_per_lifetime": "同一張卡的開卡禮一輩子只能拿一次",
+      "popup_rule": "系統判斷你不夠「有利潤」會跳出 pop-up 阻擋開卡禮"
+    },
+    "foreign_transaction_fee": 2.7,
+    "credit_score_recommended": "Good (670+)",
+    "is_active": true,
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://www.nerdwallet.com/credit-cards/reviews/american-express-blue-cash-everyday",
+    "status": "active",
+    "benefits": [
+      {
+        "benefit_category": "streaming",
+        "benefit_name": "$84 Disney Streaming Credit",
+        "benefit_description": "每月 $7 Disney Bundle (Disney+/Hulu/ESPN+) 訂閱 credit",
+        "benefit_value": 84,
+        "benefit_type": "credit",
+        "reset_date_type": "monthly"
+      },
+      {
+        "benefit_category": "dining_credit",
+        "benefit_name": "$180 Home Chef Credit",
+        "benefit_description": "每月 $15 Home Chef 餐盒訂閱 credit",
+        "benefit_value": 180,
+        "benefit_type": "credit",
+        "reset_date_type": "monthly"
+      }
+    ]
+  },
+  {
+    "slug": "amex-hilton-honors",
+    "issuer": "American Express",
+    "card_name": "Hilton Honors American Express Card",
+    "card_network": "American Express",
+    "annual_fee": 0,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 6 個月內消費滿 $2,000 可獲得 70,000 Hilton Honors 點數",
+    "signup_bonus_value_estimate": 350,
+    "signup_bonus_spend_requirement": 2000,
+    "signup_bonus_time_limit_months": 6,
+    "earning_rates": {
+      "hilton_purchases": "7x Hilton points",
+      "dining": "5x Hilton points",
+      "groceries": "5x Hilton points",
+      "gas": "5x Hilton points",
+      "general": "3x Hilton points"
+    },
+    "key_benefits": [
+      "無年費 Hilton 卡",
+      "Hilton 消費 7x 回饋",
+      "自動獲得 Hilton Silver 會員",
+      "無外幣交易手續費"
+    ],
+    "application_rules": {
+      "rule_name": "Amex 2/90 + 5 Card Limit",
+      "description": "90 天內最多核准 2 張 Amex credit card；最多同時持有 5 張 Amex credit card（charge card 不算）",
+      "once_per_lifetime": "同一張卡的開卡禮一輩子只能拿一次",
+      "popup_rule": "系統判斷你不夠「有利潤」會跳出 pop-up 阻擋開卡禮"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Good (670+)",
+    "is_active": true,
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://thepointsguy.com/credit-cards/hilton-honors-amex-current-offers/",
+    "status": "active",
+    "benefits": []
+  },
+  {
+    "slug": "amex-hilton-surpass",
+    "issuer": "American Express",
+    "card_name": "Hilton Honors American Express Surpass Card",
+    "card_network": "American Express",
+    "annual_fee": 150,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 6 個月內消費滿 $3,000 可獲得 130,000 Hilton Honors 點數 + 1 晚 Free Night",
+    "signup_bonus_value_estimate": 950,
+    "signup_bonus_spend_requirement": 3000,
+    "signup_bonus_time_limit_months": 6,
+    "earning_rates": {
+      "hilton_purchases": "12x Hilton points",
+      "dining": "6x Hilton points",
+      "groceries": "6x Hilton points",
+      "gas": "6x Hilton points",
+      "general": "3x Hilton points"
+    },
+    "key_benefits": [
+      "Hilton 消費 12x 回饋",
+      "自動獲得 Hilton Gold 會員（含免費早餐和升等）",
+      "$200 Hilton Credit（每季 $50）",
+      "每年消費滿 $15,000 贈送 1 晚 Free Night（無 category 限制）",
+      "Priority Pass Select（限 10 次/年）",
+      "無外幣交易手續費"
+    ],
+    "application_rules": {
+      "rule_name": "Amex 2/90 + 5 Card Limit",
+      "description": "90 天內最多核准 2 張 Amex credit card；最多同時持有 5 張 Amex credit card（charge card 不算）",
+      "once_per_lifetime": "同一張卡的開卡禮一輩子只能拿一次",
+      "popup_rule": "系統判斷你不夠「有利潤」會跳出 pop-up 阻擋開卡禮"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Good to Excellent (670+)",
+    "is_active": true,
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://thepointsguy.com/credit-cards/hilton-honors-amex-current-offers/",
+    "status": "active",
+    "benefits": [
+      {
+        "benefit_category": "hotel_credit",
+        "benefit_name": "$200 Hilton Credit",
+        "benefit_description": "每季 $50 Hilton 消費 credit",
+        "benefit_value": 200,
+        "benefit_type": "credit",
+        "usage_reminder": "每季 $50，記得每季使用",
+        "reset_date_type": "quarterly"
+      },
+      {
+        "benefit_category": "hotel",
+        "benefit_name": "Free Night Award",
+        "benefit_description": "每年消費滿 $15,000 贈送 1 晚 Hilton Free Night（無 category 限制）",
+        "benefit_value": 300,
+        "benefit_type": "free_night",
+        "reset_date_type": "cardmember_year"
+      }
+    ]
+  },
+  {
+    "slug": "amex-hilton-aspire",
+    "issuer": "American Express",
+    "card_name": "Hilton Honors American Express Aspire Card",
+    "card_network": "American Express",
+    "annual_fee": 550,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 6 個月內消費滿 $6,000 可獲得 175,000 Hilton Honors 點數",
+    "signup_bonus_value_estimate": 875,
+    "signup_bonus_spend_requirement": 6000,
+    "signup_bonus_time_limit_months": 6,
+    "earning_rates": {
+      "hilton_purchases": "14x Hilton points",
+      "dining": "7x Hilton points",
+      "flights_booked_directly": "7x Hilton points",
+      "general": "3x Hilton points"
+    },
+    "key_benefits": [
+      "自動獲得 Hilton Diamond 會員（最高等級）",
+      "每年持卡週年贈送 1 晚 Free Night Award（無 category 限制）",
+      "$400 Hilton Resort Credit（每半年 $200）",
+      "$200 航空 Fee Credit（每季 $50）",
+      "$209 CLEAR+ Credit",
+      "Priority Pass Select 貴賓室",
+      "消費滿 $60,000 再送 1 晚 Free Night"
+    ],
+    "application_rules": {
+      "rule_name": "Amex 2/90 + 5 Card Limit",
+      "description": "90 天內最多核准 2 張 Amex credit card；最多同時持有 5 張 Amex credit card（charge card 不算）",
+      "once_per_lifetime": "同一張卡的開卡禮一輩子只能拿一次",
+      "popup_rule": "系統判斷你不夠「有利潤」會跳出 pop-up 阻擋開卡禮"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Excellent (720+)",
+    "is_active": true,
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://thepointsguy.com/credit-cards/hilton-honors-amex-current-offers/",
+    "status": "active",
+    "benefits": [
+      {
+        "benefit_category": "hotel",
+        "benefit_name": "年度 Free Night Award",
+        "benefit_description": "每年持卡週年自動獲得 1 晚 Hilton Free Night Award（無 category 限制，可用在任何 Hilton 飯店）",
+        "benefit_value": 500,
+        "benefit_type": "free_night",
+        "reset_date_type": "cardmember_year"
+      },
+      {
+        "benefit_category": "hotel_credit",
+        "benefit_name": "$400 Hilton Resort Credit",
+        "benefit_description": "每半年 $200 可用於 Hilton 旗下度假村消費（餐飲/水療/活動等）",
+        "benefit_value": 400,
+        "benefit_type": "credit",
+        "reset_date_type": "semi_annual"
+      },
+      {
+        "benefit_category": "airline_credit",
+        "benefit_name": "$200 Airline Fee Credit",
+        "benefit_description": "每季 $50 航空附加費用報銷（行李費/機上消費/座位升級等）",
+        "benefit_value": 200,
+        "benefit_type": "credit",
+        "reset_date_type": "quarterly"
+      },
+      {
+        "benefit_category": "travel",
+        "benefit_name": "$209 CLEAR+ Credit",
+        "benefit_description": "報銷 CLEAR+ 會員費用，享快速通關",
+        "benefit_value": 209,
+        "benefit_type": "credit",
+        "reset_date_type": "annual"
+      },
+      {
+        "benefit_category": "hotel",
+        "benefit_name": "Hilton Diamond Status",
+        "benefit_description": "自動獲得 Hilton Diamond 會員資格：免費早餐、房型升等至套房、額外點數等",
+        "benefit_value": 0,
+        "benefit_type": "status",
+        "reset_date_type": "annual"
+      }
+    ]
+  },
+  {
+    "slug": "amex-marriott-bonvoy-brilliant",
+    "issuer": "American Express",
+    "card_name": "Marriott Bonvoy Brilliant American Express Card",
+    "card_network": "American Express",
+    "annual_fee": 650,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 6 個月內消費滿 $6,000 可獲得 200,000 Marriott Bonvoy 點數（限時至 5/13/2026）",
+    "signup_bonus_value_estimate": 1600,
+    "signup_bonus_spend_requirement": 6000,
+    "signup_bonus_time_limit_months": 6,
+    "earning_rates": {
+      "marriott_purchases": "6x Marriott Bonvoy points",
+      "dining": "3x Marriott Bonvoy points",
+      "flights_booked_directly": "3x Marriott Bonvoy points",
+      "general": "2x Marriott Bonvoy points"
+    },
+    "key_benefits": [
+      "每年持卡週年贈送 1 晚 Free Night Award（最高 85,000 點）",
+      "自動獲得 Platinum Elite 會員資格",
+      "$300 Marriott Bonvoy Credit（限 Marriott 消費）",
+      "Priority Pass Select 貴賓室",
+      "每年 25 晚 Elite Night Credits",
+      "Global Entry / TSA PreCheck 報銷"
+    ],
+    "application_rules": {
+      "rule_name": "Amex 2/90 + 5 Card Limit",
+      "description": "90 天內最多核准 2 張 Amex credit card；最多同時持有 5 張 Amex credit card（charge card 不算）",
+      "once_per_lifetime": "同一張卡的開卡禮一輩子只能拿一次",
+      "popup_rule": "系統判斷你不夠「有利潤」會跳出 pop-up 阻擋開卡禮"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Excellent (720+)",
+    "is_active": true,
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://thepointsguy.com/credit-cards/marriott-bonvoy-current-offers/",
+    "offer_expires_at": "2026-05-13",
+    "status": "active",
+    "benefits": [
+      {
+        "benefit_category": "hotel",
+        "benefit_name": "年度 Free Night Award",
+        "benefit_description": "每年持卡週年自動獲得 1 晚 Free Night Award（最高可用於 85,000 點的 Marriott 飯店）",
+        "benefit_value": 600,
+        "benefit_type": "free_night",
+        "reset_date_type": "cardmember_year"
+      },
+      {
+        "benefit_category": "hotel_credit",
+        "benefit_name": "$300 Marriott Credit",
+        "benefit_description": "每年 $300 可用於 Marriott 旗下飯店消費",
+        "benefit_value": 300,
+        "benefit_type": "credit",
+        "reset_date_type": "cardmember_year"
+      },
+      {
+        "benefit_category": "hotel",
+        "benefit_name": "Platinum Elite Status",
+        "benefit_description": "自動獲得 Marriott Platinum Elite 會員：房型升等至套房、行政酒廊、額外點數等",
+        "benefit_value": 0,
+        "benefit_type": "status",
+        "reset_date_type": "annual"
+      }
+    ]
+  },
+  {
+    "slug": "amex-delta-skymiles-gold",
+    "issuer": "American Express",
+    "card_name": "Delta SkyMiles Gold American Express Card",
+    "card_network": "American Express",
+    "annual_fee": 150,
+    "annual_fee_waived_first_year": true,
+    "signup_bonus_description": "開卡後 6 個月內消費滿 $2,000 可獲得最高 80,000 Delta SkyMiles",
+    "signup_bonus_value_estimate": 960,
+    "signup_bonus_spend_requirement": 2000,
+    "signup_bonus_time_limit_months": 6,
+    "earning_rates": {
+      "delta_purchases": "2x Delta SkyMiles",
+      "dining": "2x Delta SkyMiles",
+      "groceries": "2x Delta SkyMiles",
+      "general": "1x Delta SkyMiles"
+    },
+    "key_benefits": [
+      "免費託運第一件行李（每年可省 $120+）",
+      "優先登機",
+      "每年 $200 Delta Stay credit（Delta Stays 訂房）",
+      "20% 機上消費折扣"
+    ],
+    "application_rules": {
+      "rule_name": "Amex 2/90 + 5 Card Limit",
+      "description": "90 天內最多核准 2 張 Amex credit card；最多同時持有 5 張 Amex credit card（charge card 不算）",
+      "once_per_lifetime": "同一張卡的開卡禮一輩子只能拿一次",
+      "popup_rule": "系統判斷你不夠「有利潤」會跳出 pop-up 阻擋開卡禮"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Good to Excellent (670+)",
+    "is_active": true,
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://www.nerdwallet.com/reviews/credit-cards/american-express-gold-delta-skymiles",
+    "status": "active",
+    "benefits": [
+      {
+        "benefit_category": "airline",
+        "benefit_name": "免費託運行李",
+        "benefit_description": "持卡人及同一訂位最多 8 名旅伴可免費託運第一件行李",
+        "benefit_value": 120,
+        "benefit_type": "waiver",
+        "reset_date_type": "per_flight"
+      }
+    ]
+  },
+  {
+    "slug": "amex-delta-skymiles-platinum",
+    "issuer": "American Express",
+    "card_name": "Delta SkyMiles Platinum American Express Card",
+    "card_network": "American Express",
+    "annual_fee": 350,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 6 個月內消費滿 $3,000 可獲得最高 90,000 Delta SkyMiles",
+    "signup_bonus_value_estimate": 1080,
+    "signup_bonus_spend_requirement": 3000,
+    "signup_bonus_time_limit_months": 6,
+    "earning_rates": {
+      "delta_purchases": "3x Delta SkyMiles",
+      "dining": "2x Delta SkyMiles",
+      "groceries": "2x Delta SkyMiles",
+      "general": "1x Delta SkyMiles"
+    },
+    "key_benefits": [
+      "免費託運第一件行李",
+      "每年獲得 Companion Certificate（同行票，國內來回只需付稅金）",
+      "Global Entry / TSA PreCheck 報銷",
+      "20% 機上消費折扣",
+      "每年 $200 Delta Stay credit"
+    ],
+    "application_rules": {
+      "rule_name": "Amex 2/90 + 5 Card Limit",
+      "description": "90 天內最多核准 2 張 Amex credit card；最多同時持有 5 張 Amex credit card（charge card 不算）",
+      "once_per_lifetime": "同一張卡的開卡禮一輩子只能拿一次",
+      "popup_rule": "系統判斷你不夠「有利潤」會跳出 pop-up 阻擋開卡禮"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Good to Excellent (670+)",
+    "is_active": true,
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://thepointsguy.com/credit-cards/delta-amex-current-offers/",
+    "status": "active",
+    "benefits": [
+      {
+        "benefit_category": "airline",
+        "benefit_name": "Companion Certificate",
+        "benefit_description": "每年持卡週年獲得一張同行票，同行者搭乘國內來回航班只需付稅金和費用",
+        "benefit_value": 400,
+        "benefit_type": "certificate",
+        "usage_reminder": "每年更新後發放，有效期一年",
+        "reset_date_type": "cardmember_year"
+      }
+    ]
+  },
+  {
+    "slug": "amex-delta-skymiles-reserve",
+    "issuer": "American Express",
+    "card_name": "Delta SkyMiles Reserve American Express Card",
+    "card_network": "American Express",
+    "annual_fee": 650,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 6 個月內消費滿 $5,000 可獲得最高 100,000 Delta SkyMiles",
+    "signup_bonus_value_estimate": 1200,
+    "signup_bonus_spend_requirement": 5000,
+    "signup_bonus_time_limit_months": 6,
+    "earning_rates": {
+      "delta_purchases": "3x Delta SkyMiles",
+      "general": "1x Delta SkyMiles"
+    },
+    "key_benefits": [
+      "Delta Sky Club 貴賓室免費使用",
+      "Centurion Lounge 使用（搭 Delta 航班時）",
+      "免費託運第一件行李",
+      "每年獲得 Companion Certificate",
+      "Global Entry / TSA PreCheck 報銷",
+      "每年 MQM（Medallion Qualification Miles）boost"
+    ],
+    "application_rules": {
+      "rule_name": "Amex 2/90 + 5 Card Limit",
+      "description": "90 天內最多核准 2 張 Amex credit card；最多同時持有 5 張 Amex credit card（charge card 不算）",
+      "once_per_lifetime": "同一張卡的開卡禮一輩子只能拿一次",
+      "popup_rule": "系統判斷你不夠「有利潤」會跳出 pop-up 阻擋開卡禮"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Excellent (720+)",
+    "is_active": true,
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://thepointsguy.com/credit-cards/delta-amex-current-offers/",
+    "status": "active",
+    "benefits": [
+      {
+        "benefit_category": "lounge",
+        "benefit_name": "Delta Sky Club",
+        "benefit_description": "搭乘 Delta 航班時可免費使用 Delta Sky Club 貴賓室，可帶 2 位同行旅客",
+        "benefit_value": 800,
+        "benefit_type": "membership",
+        "reset_date_type": "annual"
+      },
+      {
+        "benefit_category": "airline",
+        "benefit_name": "Companion Certificate",
+        "benefit_description": "每年持卡週年獲得一張同行票，同行者搭乘國內頭等/商務艙來回只需付稅金",
+        "benefit_value": 600,
+        "benefit_type": "certificate",
+        "reset_date_type": "cardmember_year"
+      }
+    ]
+  },
+  {
+    "slug": "amex-business-platinum",
+    "issuer": "American Express",
+    "card_name": "The Business Platinum Card from American Express",
+    "card_network": "American Express",
+    "annual_fee": 895,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 3 個月內消費滿 $20,000 可獲得最高 300,000 Membership Rewards 點數（因人而異）",
+    "signup_bonus_value_estimate": 6000,
+    "signup_bonus_spend_requirement": 20000,
+    "signup_bonus_time_limit_months": 3,
+    "earning_rates": {
+      "flights_and_prepaid_hotels": "5x MR（透過 Amex Travel 或直接和航空公司預訂）",
+      "us_purchases_over_5k": "1.5x MR（單筆消費超過 $5,000，每年最高 $2M）",
+      "general": "1x MR"
+    },
+    "key_benefits": [
+      "航班和預付飯店 5x MR",
+      "單筆超過 $5K 消費享 1.5x MR",
+      "$600 Hotel Credit（透過 Amex Travel 訂 FHR/THC）",
+      "$200 航空 Fee Credit",
+      "$200 Hilton Credit（每季 $50）",
+      "$1,150 Dell Credit（$150 基礎 + $1,000 達標後獎勵）",
+      "$360 Indeed Credit（每季 $90）",
+      "$120 Wireless Credit（每月 $10）",
+      "$200 Adobe Credit",
+      "Centurion Lounge、Priority Pass、Delta Sky Club（搭 Delta 時）",
+      "Hilton Gold / Marriott Gold Elite"
+    ],
+    "application_rules": {
+      "rule_name": "Amex Once-Per-Lifetime",
+      "description": "同一張卡的開卡禮一輩子只能拿一次",
+      "popup_rule": "系統判斷你不夠「有利潤」會跳出 pop-up 阻擋開卡禮",
+      "note": "Business Platinum 是 Charge Card，不受 5 credit card limit 限制"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Excellent (720+)",
+    "is_active": true,
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://thepointsguy.com/credit-cards/amex-business-platinum-current-offer/",
+    "status": "active",
+    "benefits": [
+      {
+        "benefit_category": "airline_credit",
+        "benefit_name": "$200 Airline Fee Credit",
+        "benefit_description": "每年選定一家航空公司，報銷最高 $200 的附加費用",
+        "benefit_value": 200,
+        "benefit_type": "credit",
+        "reset_date_type": "calendar_year"
+      },
+      {
+        "benefit_category": "lounge",
+        "benefit_name": "Centurion Lounge + Priority Pass",
+        "benefit_description": "免費使用 Centurion Lounge 和 Priority Pass Select 貴賓室",
+        "benefit_value": 700,
+        "benefit_type": "membership",
+        "reset_date_type": "annual"
+      }
+    ]
+  },
+  {
+    "slug": "amex-business-gold",
+    "issuer": "American Express",
+    "card_name": "American Express Business Gold Card",
+    "card_network": "American Express",
+    "annual_fee": 375,
+    "annual_fee_waived_first_year": false,
+    "signup_bonus_description": "開卡後 3 個月內消費滿 $15,000 可獲得最高 200,000 Membership Rewards 點數（因人而異）",
+    "signup_bonus_value_estimate": 4000,
+    "signup_bonus_spend_requirement": 15000,
+    "signup_bonus_time_limit_months": 3,
+    "earning_rates": {
+      "top_2_categories": "4x MR（每月自動偵測消費最高的 2 個類別，每年首 $150,000）",
+      "categories_include": "航空、廣告、加油、餐廳、運輸、科技",
+      "general": "1x MR"
+    },
+    "key_benefits": [
+      "每月消費最高的 2 個類別自動享 4x MR",
+      "$240 FedEx/Grubhub/Office Supply Credit（每月 $20）",
+      "$155 Walmart+ Credit（每月 $12.95）",
+      "$150 Squarespace Credit（2025/10 新增）",
+      "可轉點到航空/飯店夥伴",
+      "靈活的付款方式（可選擇分期或全額）"
+    ],
+    "application_rules": {
+      "rule_name": "Amex Once-Per-Lifetime",
+      "description": "同一張卡的開卡禮一輩子只能拿一次",
+      "popup_rule": "系統判斷你不夠「有利潤」會跳出 pop-up 阻擋開卡禮",
+      "note": "Business Gold 是 Charge Card，不受 5 credit card limit 限制"
+    },
+    "foreign_transaction_fee": 0,
+    "credit_score_recommended": "Excellent (720+)",
+    "is_active": true,
+    "last_verified_at": "2026-04-17",
+    "issuer_url": "https://thepointsguy.com/credit-cards/amex-business-gold-current-offer/",
+    "status": "active",
+    "benefits": [
+      {
+        "benefit_category": "business_credit",
+        "benefit_name": "$240 FedEx/Grubhub/Office Supply Credit",
+        "benefit_description": "每月 $20 於 FedEx、Grubhub 或指定辦公室用品商店消費可折抵",
+        "benefit_value": 240,
+        "benefit_type": "credit",
+        "reset_date_type": "monthly"
+      },
+      {
+        "benefit_category": "shopping",
+        "benefit_name": "$155 Walmart+ Credit",
+        "benefit_description": "每月 $12.95 Walmart+ 會員費用報銷",
+        "benefit_value": 155,
+        "benefit_type": "credit",
+        "reset_date_type": "monthly"
+      },
+      {
+        "benefit_category": "business_credit",
+        "benefit_name": "$150 Squarespace Credit",
+        "benefit_description": "每年 $150 Squarespace 消費 credit（2025/10 新增）",
+        "benefit_value": 150,
+        "benefit_type": "credit",
+        "reset_date_type": "annual"
+      }
+    ]
+  }
+]
